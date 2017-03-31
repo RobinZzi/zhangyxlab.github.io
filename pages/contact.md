@@ -1,12 +1,14 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: "Contact us"
+#subheadline: ""
+teaser: "Get in touch with us? Here is how:"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+* Lab location: CMM-East 2071, San Diego, CA
+* Office phone: 858-822-5766 
+* Lab phone: 858-822-5767 
+* E-mail: biren@ucsd.edu 
 
-
- [1]: http://www.wufoo.com/
+Assistant: Bernadeth Torres &lt; bet003@ucsd.edu &gt;

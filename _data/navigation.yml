@@ -2,10 +2,6 @@
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
 - title: News
   url: "/news/"
   side: left
@@ -13,9 +9,9 @@
 - title: "Research"
   url: "/research/"
   side: left
-  dropdown:
-  - title: "Research Interests"
-    url: "/research/interests/"
+#  dropdown:
+#  - title: "Research Interests"
+#    url: "/research/interests/"
 
 - title: "Team"
   url: "/team/"
@@ -30,9 +26,13 @@
   - title: "Peer Reviewed"
     url: "/publications/peer-reviewed/"
 
-- title: Documentation
-  url: "/documentation/"
+- title: "Gallery"
+  url: "/gallery/"
   side: left
+
+# - title: Documentation
+#  url: "/documentation/"
+#  side: left
 
 - title: "Search"
   url: "/search/"

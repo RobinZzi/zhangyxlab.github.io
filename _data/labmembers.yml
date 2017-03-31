@@ -1,0 +1,35 @@
+### Put in the lab members 
+- name: "Sora Chee"
+- name: "Yarui Diao"
+  position: Postdoctoral Fellow
+- name: "Rongxin Fang"
+- name: "David Gorkin"
+- name: "Rong Hu"
+- name: "Hui Huang"
+  position: PhD student
+  email: huh025@ucsd.edu
+  
+- name: "Fion Hui"
+- name: "Haruhiko Ishii"
+- name: "Samantha Kuan"
+- name: "Naoki Kubo"
+- name: "Bin Li"
+- name: "Guoqiang Li"
+- name: "Tristin Liu"
+- name: "Ethan Older"
+- name: "Sebastian Preissl"
+- name: "Yunjiang Qiu"
+- name: "Anugraha Raman"
+- name: "Alysa Shin"
+- name: "Bernadeth Torres"
+- name: "Jian Yan"
+- name: "Zhen Ye"
+- name: "Miao Yu"
+- name: "Juntao Yu"
+- name: "Yanxiao Zhang"
+  url: https:/shawnzhangyx.github.io/
+  position: Postdoctoral Fellow 
+  email: shz254@ucsd.edu
+  image: team-yanxiaozhang.jpg
+  short-description: Yanxiao obtained his PhD in Bioinformatics at University of Michigan and joined Renlab in 2016. 
+- name: "Yuan Zhao"
