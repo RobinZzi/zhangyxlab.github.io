@@ -23,8 +23,8 @@
   dropdown:
   - title: "Preprint"
     url: "/publications/preprint/"
-  - title: "Peer Reviewed"
-    url: "/publications/peer-reviewed/"
+#  - title: "Peer Reviewed"
+#    url: "/publications/peer-reviewed/"
 
 - title: "Gallery"
   url: "/gallery/"
