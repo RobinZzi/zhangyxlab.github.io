@@ -1,35 +1,96 @@
 ### Put in the lab members 
 - name: "Sora Chee"
+  position: Research Technician
+
 - name: "Yarui Diao"
   position: Postdoctoral Fellow
+  email: yadiao@ucsd.edu
+
 - name: "Rongxin Fang"
+  position: PhD candidate
+  email: r3fang@ucsd.edu
+
 - name: "David Gorkin"
+  position: Postdoctoral Fellow
+  email: dgorkin@ucsd.edu
+
 - name: "Rong Hu"
+  position: Research Technicain
+
 - name: "Hui Huang"
   position: PhD student
   email: huh025@ucsd.edu
   
 - name: "Fion Hui"
+  position: Research Technician
+
 - name: "Haruhiko Ishii"
+  position: Research Scientist
+  email: hishii@ucsd.edu
+
 - name: "Samantha Kuan"
+  position: Lab Manager
+  email: sakuan@ucsd.edu
+
 - name: "Naoki Kubo"
+  position: Postdoctoral Fellow
+  email: nakubo@ucsd.edu
+
 - name: "Bin Li"
+  position: Postgraduate Researcher
+  email: bil022@ucsd.edu
+
 - name: "Guoqiang Li"
+  position: Postdoctoral Fellow
+  email: gul030@ucsd.edu
+
 - name: "Tristin Liu"
+  position: Research Technician
+
 - name: "Ethan Older"
+  position: Research Technician
+
 - name: "Sebastian Preissl"
+  position: Postdoctoral Fellow
+  email: spreissl@ucsd.edu
+
 - name: "Yunjiang Qiu"
+  position: PhD candidate
+  email: yuq003@eng.ucsd.edu
+
 - name: "Anugraha Raman"
+  position: PhD candidate
+  email: amraman@ucsd.edu
+
 - name: "Alysa Shin"
+  position: Research Technician
+
 - name: "Bernadeth Torres"
+  position: Laboratory Administrator
+  email: bet003@ucsd.edu
+
 - name: "Jian Yan"
+  position: Postdoctoral Fellow
+  email: j4yan@ucsd.edu
+
 - name: "Zhen Ye"
+  position: Lab Manager
+  email: zhye@ucsd.edu
+
 - name: "Miao Yu"
+  position: Postdoctoral Fellow
+  email: miy059@ucsd.edu
+
 - name: "Juntao Yu"
+  position: Research Intern
+  email: juy081@ucsd.edu
+
 - name: "Yanxiao Zhang"
   url: https:/shawnzhangyx.github.io/
   position: Postdoctoral Fellow 
   email: shz254@ucsd.edu
-#  image: team-yanxiaozhang.jpg
   short-description: Yanxiao obtained his PhD in Bioinformatics at University of Michigan and joined Renlab in 2016. 
 - name: "Yuan Zhao"
+  position: PhD candidate
+  email: yuz207@eng.ucsd.edu
+

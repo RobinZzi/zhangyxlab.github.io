@@ -4,7 +4,7 @@ title: "Team"
 meta_title: "Lab members"
 subheadline: # "Wufoo-powered contact forms"
 #teaser: "Get in touch with me? Use the contact form."
-permalink: "/team/"
+permalink: "/team1/"
 ---
 ##### Principle Investigator
 <br>
@@ -13,15 +13,16 @@ permalink: "/team/"
 <hr>
 ##### Current members
 <br>
-<table>
+<div class ="row">
 {% for member in site.data.labmembers %}
- <tr>
- <td> <b>{{member.name}} </b>
- {% if member.url %} <a href="{{member.url}}"> &lt;website&gt;</a> {% endif %} </td>
- <td>{{member.position}} </td>
- <td>{{member.email}} </td>
- </tr>
+ <div class = "small-12 medium-6 large-3 columns">
+ {% if member.image %}  <img src="{{site.urlimg}}{{member.image}}"> {% endif %}
+ <p> <b>{{member.name}}</b>
+ {% if member.url %} <a href="{{member.url}}"> &lt;website&gt;</a> {% endif %} <br>
+ {{member.position}} <br>
+ {{member.email}} </p>
+ </div> <!-- small-12 large-4 columns -->
 {% endfor %}
-</table>
+</div> <!-- row -->
 <hr>
 ##### Alumni (incomplete)
