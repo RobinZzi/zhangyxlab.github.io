@@ -53,7 +53,7 @@ format: frontpage
             </p>
             {% endif %}
             {% else post.image.homepage == NULL %}
-            <h2>{{ site.data.language.new_blog_entries }}</h2>
+            <h2>{{ site.data.language.news_entries }}</h2>
             {% endif %}
             {% endfor %}
         </div><!-- /.small-12.columns -->
@@ -74,8 +74,8 @@ format: frontpage
 
 
         <div class="medium-6 columns">
-            <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts entries='3' offset='1' %}
+            <p><strong>{{ site.data.language.more_news }}</strong></p>
+            {% include list-posts entries='5' offset='1' category="news" %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
