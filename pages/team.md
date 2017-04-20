@@ -24,4 +24,16 @@ permalink: "/team/"
 {% endfor %}
 </table>
 <hr>
-##### Alumni (incomplete)
+##### Alumni (Under construction)
+
+<table>
+{% for member in site.data.alumni %}
+ <tr>
+ <td> <b>{{member.name}} </b>
+ {% if member.url %} <a href="{{member.url}}"> &lt;website&gt;</a> {% endif %} </td>
+ <td>{{member.position}} </td>
+ <td>{{member.email}} </td>
+ </tr>
+{% endfor %}
+</table>
+
