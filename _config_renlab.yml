@@ -6,7 +6,7 @@
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
 url: 		'http://enhancer.ucsd.edu/'
-baseurl: 	'renlab_website'
+baseurl: 	'renlab_website/'
 urlimg: 	'http://enhancer.ucsd.edu/renlab_website/images/'
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
@@ -23,4 +23,4 @@ sass:
   sourcemap: true
 
 # Disable when not in production
-google_analytics_tracking_id: false
+google_analytics_tracking_id: UA-96143943-2
