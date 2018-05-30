@@ -26,6 +26,10 @@
 #  - title: "Peer Reviewed"
 #    url: "/publications/peer-reviewed/"
 
+- title: "Download"
+  url: "/download/"
+  side: left
+
 - title: "Gallery"
   url: "/gallery/"
   side: left

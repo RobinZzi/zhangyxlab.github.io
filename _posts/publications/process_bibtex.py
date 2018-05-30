@@ -45,7 +45,16 @@ with open(fname, 'r') as infile:
       
       
     if line.startswith("}"):
-       out_file_name = article.date+"-"+ article.name + ".md"
+       if article.date.count('-')==0:
+         out_file_name = article.date+"-01-01-"+ article.name + ".md"
+       elif article.date.count('-')==1:
+         out_file_name = article.date+"-01-"+ article.name + ".md"
+       elif article.date.count('-')==2:
+         out_file_name = article.date+"-"+ article.name + ".md"
+       else: 
+          print("error")
+          print(article.date)
+          exit(1)
        out = []
        out.append("---")
        out.append("layout: page")

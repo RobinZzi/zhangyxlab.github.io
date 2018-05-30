@@ -11,10 +11,6 @@
   position: PhD candidate
   email: r3fang@ucsd.edu
 
-- name: "David Gorkin"
-  position: Postdoctoral Fellow
-  email: dgorkin@ucsd.edu
-
 - name: "Rong Hu"
   position: Research Associate
   email: roh026@ucsd.edu
@@ -51,10 +47,6 @@
   position: Lab Assistant
   email: eolder@ucsd.edu
 
-- name: "Sebastian Preissl"
-  position: Postdoctoral Fellow
-  email: spreissl@ucsd.edu
-
 - name: "Yunjiang Qiu"
   position: PhD candidate
   email: yuq003@eng.ucsd.edu
@@ -83,11 +75,22 @@
   position: Postdoctoral Fellow
   email: miy059@ucsd.edu
 
+- name: "Chenxu Zhu"
+  position: Postdoctoral Fellow
+  email: chz272@ucsd.edu
+
+- name: "Quan Zhu"
+  position: Research Scientist
+  email: quz014@ucsd.edu
+
+
 - name: "Yanxiao Zhang"
   url: https:/shawnzhangyx.github.io/
   position: Postdoctoral Fellow 
   email: shz254@ucsd.edu
   short-description: Yanxiao obtained his PhD in Bioinformatics at University of Michigan and joined Renlab in 2016. 
+
+
 
 - name: "Yuan Zhao"
   position: PhD candidate

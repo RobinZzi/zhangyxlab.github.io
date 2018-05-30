@@ -24,16 +24,20 @@ permalink: "/team/"
 {% endfor %}
 </table>
 <hr>
-##### Alumni (Under construction)
+##### Alumni
+
 
 <table>
+ <tr><th> Name </th> <th>Prev. Pos</th>><th> Year</th> <th> Curr. Pos </th> </tr>
 {% for member in site.data.alumni %}
  <tr>
  <td> <b>{{member.name}} </b>
  {% if member.url %} <a href="{{member.url}}"> &lt;website&gt;</a> {% endif %} </td>
- <td>{{member.position}} </td>
- <td>{{member.email}} </td>
+ <td> {{member.prev_position}} </td>
+ <td>{{member.year}} </td>
+ <td>{{member.curr_position}} </td>
  </tr>
 {% endfor %}
 </table>
 
+(Please contact website <a href="mailto:shz254@ucsd.edu">admin</a> to correct any mistakes or missing information.)
