@@ -1,11 +1,16 @@
 ### Put in the lab members 
-- name: "Sora Chee"
-  position: Research Associate
-  email: sochee@ucsd.edu 
-  
-- name: "Yarui Diao"
+
+- name: "Yang Li"
   position: Postdoctoral Fellow
-  email: yadiao@ucsd.edu
+  email: liyang01133@gmail.com 
+
+- name: "James Hocker"
+  position: Graduate Student
+  email: jhocker@ucsd.edu
+
+- name: "Melodi Tastemel"
+  position: Postdoctal Fellow
+  email: mtastemel@ucsd.edu
 
 - name: "Rongxin Fang"
   position: PhD candidate
@@ -39,14 +44,6 @@
   position: Postdoctoral Fellow
   email: gul030@ucsd.edu
 
-- name: "Tristin Liu"
-  position: Research Associate
-  email: trl017@ucsd.edu
-
-- name: "Ethan Older"
-  position: Lab Assistant
-  email: eolder@ucsd.edu
-
 - name: "Yunjiang Qiu"
   position: PhD candidate
   email: yuq003@eng.ucsd.edu
@@ -62,10 +59,6 @@
 - name: "Bernadeth Torres"
   position: Laboratory Administrator
   email: bet003@ucsd.edu
-
-- name: "Jian Yan"
-  position: Postdoctoral Fellow
-  email: j4yan@ucsd.edu
 
 - name: "Zhen Ye"
   position: Lab Manager
@@ -83,14 +76,10 @@
   position: Research Scientist
   email: quz014@ucsd.edu
 
-
 - name: "Yanxiao Zhang"
-  url: https:/shawnzhangyx.github.io/
   position: Postdoctoral Fellow 
   email: shz254@ucsd.edu
   short-description: Yanxiao obtained his PhD in Bioinformatics at University of Michigan and joined Renlab in 2016. 
-
-
 
 - name: "Yuan Zhao"
   position: PhD candidate

@@ -1,4 +1,15 @@
 # Postdoctoral Fellow
+
+- name: "Yarui Diao"
+  year: "2014-2018"
+  prev_position: Postdoctoral Fellow
+  curr_position: Assistant Professor, Duke University
+
+- name: "Jian Yan"
+  year: "2015-2018"
+  prev_position: Postdoctoral Fellow
+  curr_position: Assistant Professor, City University of Hong Kong
+
 - name: "Tae Hoon Kim, Ph.D."
   year: "2002-2006"
   prev_position: Postdoctoral Fellow
@@ -63,6 +74,11 @@
 
 
 # Graduate Student
+- name: "Anthony Schmitt"
+  year: 2012-2016
+  prev_position: Graduate Student
+  curr_position: Vice President, Research and Development at Arima Genomics, Inc.
+
 - name: "Leah O. Barrera"
   year: 2003-2007
   prev_position: Graduate Student
@@ -92,6 +108,18 @@
 
 
 # Research Associate 
+- name: "Sora Chee"
+  prev_position: Research Associate
+  curr_position: Medical student
+
+- name: "Tristin Liu"
+  prev_position: Research Associate
+  curr_position: Master's student
+
+- name: "Ah Young Lee"
+  prev_position: Research Associate
+  curr_position: PhD student, John's Hopkins University
+
 - name: "Sarah Van Calcar"
   year: 2001-2006
   prev_position: Research Associate

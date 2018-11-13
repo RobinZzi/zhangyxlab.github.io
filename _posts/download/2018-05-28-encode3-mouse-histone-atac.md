@@ -7,22 +7,20 @@ tags:
     - download
 categories:
     - download
-image:
-    thumb: gallery-example-3-thumb.jpg
-    title: gallery-example-3.jpg
-    caption_url: http://unsplash.com
 ---
 These files are supplementary to the ENCODE3 mouse paper. 
 
-Raw and processed ChIP-seq data from our study can be accessed via the ENCODE Data Collection and Coordination (DCC) website: www.encodedcc.org. 
+- Raw and processed ChIP-seq data from our study can be accessed via the ENCODE Data Collection and Coordination (DCC) website: 
 
-A full list of the ChIP-seq experiments included in this manuscript can be found at the link below:  https://www.encodeproject.org/search/?type=Experiment&assay_title=ChIP-seq&award.rfa=ENCODE3&lab.title=Bing+Ren%2C+UCSD&limit=all
+<http://www.encodedcc.org>. 
+- A full list of the ChIP-seq experiments included in this manuscript can be found at the link below:  
 
-A fill list of ATAC-seq experiments included in this manuscript can be found at the link below:  
-https://www.encodeproject.org/search/?type=Experiment&award.rfa=ENCODE3&lab.title=Bing+Ren%2C+UCSD&limit=all.&assay_title=ATAC-seq&limit=all"
+<https://www.encodeproject.org/search/?type=Experiment&assay_title=ChIP-seq&award.rfa=ENCODE3&lab.title=Bing+Ren%2C+UCSD&limit=all>
+- A full list of ATAC-seq experiments included in this manuscript can be found at the link below: 
 
-- chromHMM calls (currently here)
-- your dynamic enhancer calls (with a readme file about how to interpret)
+<https://www.encodeproject.org/search/?type=Experiment&award.rfa=ENCODE3&lab.title=Bing+Ren%2C+UCSD&limit=all.&assay_title=ATAC-seq&limit=all>
+- [chromHMM calls](http://enhancer.sdsc.edu/enhancer_export/ENCODE/chromHMM/)
+- [H3K27ac dynamic enhancer calls](/renlab_website/download_files/ENCODE3_mouse_dynamic_H3K27ac_peaks.txt.gz)
 - Yuan's dynamic ATAC calls (with a readme file about how to interpret)
 - Yuan's processed ATAC data, if different then ENCODE DCC (should be described in methods).
 
