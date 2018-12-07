@@ -21,7 +21,7 @@ permalink: "/publication/"
     <li>
       <i><b>{{ post.title }} </b> </i>
      <br> {{post.pub.authors}} <br>
-      <b> {{post.pub.journal}}</b>, {{post.date|date: '%Y %B %d'}};{{post.pub.volume}}({{post.pub.number}}): {{post.pub.pages}}. doi:{{post.pub.doi}}
+      <b> {{post.pub.journal}}</b>, {{post.date|date: '%Y %B %d'}};{{post.pub.volume}}({{post.pub.number}}): {{post.pub.pages}}. doi:<a href="https://doi.org/{{post.pub.doi}}">{{post.pub.doi}}</a>
     </li>
     <br>
   {% endfor %}

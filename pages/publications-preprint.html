@@ -9,7 +9,7 @@ permalink: "/publication/preprint/"
     <li>
       <i><b>{{ post.title }} </b> </i>
      <br> {{post.pub.authors}} <br>
-      <b> {{post.pub.journal}}</b>, {{post.date|date: '%Y %B %d'}}; doi:{{post.pub.doi}}
+      <b> {{post.pub.journal}}</b>, {{post.date|date: '%Y %B %d'}}; doi:<a href="{{post.pub.doi}}">{{post.pub.doi}}</a>
     </li>
     <br>
   {% endfor %}
