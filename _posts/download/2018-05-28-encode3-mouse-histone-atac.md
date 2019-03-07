@@ -8,7 +8,8 @@ tags:
 categories:
     - download
 ---
-These files are supplementary to the ENCODE3 mouse paper. 
+
+These files are supplementary files for the ENCODE3 mouse chromatin state and accessibility paper (Gorkin, Barozzi, Zhao, Zhang, Huang et al. 2019). They include the following files: 
 
 - Raw and processed ChIP-seq data from our study can be accessed via the ENCODE Data Collection and Coordination (DCC) website: 
 
