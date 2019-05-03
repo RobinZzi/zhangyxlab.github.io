@@ -22,4 +22,5 @@ These files are supplementary files for the ENCODE3 mouse chromatin state and ac
 <https://www.encodeproject.org/search/?type=Experiment&award.rfa=ENCODE3&lab.title=Bing+Ren%2C+UCSD&limit=all.&assay_title=ATAC-seq&limit=all>
 - [chromHMM calls](http://enhancer.sdsc.edu/enhancer_export/ENCODE/chromHMM/)
 - [H3K27ac dynamic enhancer calls](/renlab_website/download_files/ENCODE3_mouse_dynamic_H3K27ac_peaks.txt.gz)
+- [ATAC-seq peak calls](/renlab_website/download_files/ENCODE3_mouse_peak_calls.gz)
 - [ATAC-seq dynamic d-TAC calls](/renlab_website/download_files/ENCODE3_mouse_dynamic_dTACs.txt.gz)
