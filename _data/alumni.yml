@@ -36,22 +36,27 @@
   curr_position: Assistant Professor, Penn State University
 
 - name: "Wei Xie, Ph.D."
+  year: 2009-2013
   prev_position: Postdoctoral Fellow
   curr_position: Research Investigator, Tsinghua University
 
 - name: "Yin Shen, Ph.D."
+  year: 2008-2014
   prev_position: Postdoctoral Fellow
   curr_position: Assistant Professor, UCSF
 
 - name: "Danny Leung, Ph.D."
+  year: 2012-2015
   prev_position: Postdoctoral Fellow
   curr_position: Assistant Professor, Hong Kong Univ. Science & Technology
 
 - name: "Fulai Jin, Ph.D."
   prev_position: Postdoctoral Fellow
+  year: 2007-2014
   curr_position: Assistant Professor, Case Western Reserve University
 
 - name: "Yan Li, Ph.D."
+  year: 2017-2014
   prev_position: Postdoctoral Fellow
   curr_position: Assistant Professor, Case Western Reserve University
 
@@ -61,14 +66,17 @@
   curr_position: Oncology Scientist, Illunima
 
 - name: "Inkyung Jung, Ph.D."
+  year: 2012-2016
   prev_position: Postdoctoral Fellow
   curr_position: Assistant Professor, KAIST
 
 - name: "David Gorkin, Ph.D."
+  year: 2013-2017
   prev_position: Postdoctoral Fellow
   curr_position: Associate Director, Epigenomics Center @UCSD
 
 - name: "Sebastian Preissl, Ph.D."
+  year: 2015-2018
   prev_position: Postdoctoral Fellow
   curr_position: Associate Director, Epigenomics Center @UCSD
 
@@ -78,6 +86,11 @@
   year: 2012-2016
   prev_position: Graduate Student
   curr_position: Vice President, Research and Development at Arima Genomics, Inc.
+
+- name: "Chloe Rivera"
+  year: 2008-2015
+  prev_position: Graduate Student
+  curr_position: Engagement Manager at McKinsey & Co
 
 - name: "Leah O. Barrera"
   year: 2003-2007
