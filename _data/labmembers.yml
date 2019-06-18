@@ -1,5 +1,9 @@
 ### Put in the lab members 
 
+- name: "Kai Zhang"
+  position: Postdoctoral Fellow
+  email: kaz007@eng.ucsd.edu
+
 - name: "Shan Mandy Jiang"
   position: Postdoctoral Fellow
   email: mandyjiang@ucsd.edu
@@ -79,10 +83,6 @@
 - name: "Chenxu Zhu"
   position: Postdoctoral Fellow
   email: chz272@ucsd.edu
-
-- name: "Quan Zhu"
-  position: Research Scientist
-  email: quz014@ucsd.edu
 
 - name: "Yanxiao Zhang"
   position: Postdoctoral Fellow 
