@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Anthony D. Schmitt, Ming Hu, Inkyung Jung, Zheng Xu, Yunjiang Qiu, Catherine L. Tan, Yun Li, Shin Lin, Yiing Lin, Cathy L. Barr,  Bing Ren"
+    authors: " Anthony D. Schmitt*, Ming Hu*<sup>,#</sup>, Inkyung Jung, Zheng Xu, Yunjiang Qiu, Catherine L. Tan, Yun Li, Shin Lin, Yiing Lin, Cathy L. Barr,  Bing Ren<sup>#</sup>"
     journal: " Cell reports"
     date: 2016-11-15
     doi:  10.1016/j.celrep.2016.10.061

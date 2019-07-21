@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Tae Hoon Kim, Leah O. Barrera, Ming Zheng, Chunxu Qu, Michael A. Singer, Todd A. Richmond, Yingnian Wu, Roland D. Green,  Bing Ren"
+    authors: " Tae Hoon Kim*, Leah O. Barrera*, Ming Zheng, Chunxu Qu, Michael A. Singer, Todd A. Richmond, Yingnian Wu, Roland D. Green,  Bing Ren"
     journal: " Nature"
     date: 2005-08-11
     doi:  10.1038/nature03877

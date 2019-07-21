@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Leah O. Barrera, Zirong Li, Andrew D. Smith, Karen C. Arden, Webster K. Cavenee, Michael Q. Zhang, Roland D. Green,  Bing Ren"
+    authors: " Leah O. Barrera*, Zirong Li*, Andrew D. Smith, Karen C. Arden, Webster K. Cavenee, Michael Q. Zhang, Roland D. Green,  Bing Ren"
     journal: " Genome research"
     date: 2008-01
     doi:  10.1101/gr.6654808

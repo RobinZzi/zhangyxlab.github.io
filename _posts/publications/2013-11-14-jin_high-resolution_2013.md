@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Fulai Jin, Yan Li, Jesse R. Dixon, Siddarth Selvaraj, Zhen Ye, Ah Young Lee, Chia-An Yen, Anthony D. Schmitt, Celso A. Espinoza,  Bing Ren"
+    authors: " Fulai Jin*, Yan Li*, Jesse R. Dixon, Siddarth Selvaraj, Zhen Ye, Ah Young Lee, Chia-An Yen, Anthony D. Schmitt, Celso A. Espinoza,  Bing Ren"
     journal: " Nature"
     date: 2013-11-14
     doi:  10.1038/nature12644

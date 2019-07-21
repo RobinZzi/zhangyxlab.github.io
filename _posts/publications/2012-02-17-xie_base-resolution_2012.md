@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Wei Xie, Cathy L. Barr, Audrey Kim, Feng Yue, Ah Young Lee, James Eubanks, Emma L. Dempster,  Bing Ren"
+    authors: " Wei Xie, Cathy L. Barr<sup>#</sup>, Audrey Kim, Feng Yue, Ah Young Lee, James Eubanks, Emma L. Dempster,  Bing Ren<sup>#</sup>"
     journal: " Cell"
     date: 2012-02-17
     doi:  10.1016/j.cell.2011.12.035

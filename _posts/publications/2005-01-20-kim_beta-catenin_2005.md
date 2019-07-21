@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Tae Hoon Kim, Hui Xiong, Zhuohua Zhang,  Bing Ren"
+    authors: " Tae Hoon Kim, Hui Xiong, Zhuohua Zhang<sup>#</sup>,  Bing Ren<sup>#</sup>"
     journal: " Oncogene"
     date: 2005-01-20
     doi:  10.1038/sj.onc.1208237

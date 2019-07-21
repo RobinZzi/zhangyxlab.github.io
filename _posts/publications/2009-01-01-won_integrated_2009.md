@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Kyoung-Jae Won, Saurabh Agarwal, Li Shen, Robert Shoemaker, Bing Ren,  Wei Wang"
+    authors: " Kyoung-Jae Won, Saurabh Agarwal, Li Shen, Robert Shoemaker, Bing Ren<sup>#</sup>,  Wei Wang<sup>#</sup>"
     journal: " PloS one"
     date: 2009
     doi:  10.1371/journal.pone.0005501

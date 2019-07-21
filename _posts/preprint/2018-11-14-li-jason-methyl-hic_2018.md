@@ -6,7 +6,7 @@ categories:
     - preprint
 ## publication related information
 pub:
-    authors: "Guoqiang Li, Yaping Liu, Yanxiao Zhang, Rongxin Fang, Manolis Kellis, Bing Ren"
+    authors: "Guoqiang Li*, Yaping Liu*, Yanxiao Zhang, Rongxin Fang, Manolis Kellis, Bing Ren"
     journal: " bioRxiv"
     date: 2017-11-14
     doi:  https://doi.org/10.1101/470963

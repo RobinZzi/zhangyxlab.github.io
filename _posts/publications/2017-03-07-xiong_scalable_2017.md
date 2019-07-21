@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Xiong Xiong, Yanxiao Zhang, Jian Yan, Surbhi Jain, Sora Chee, Bing Ren,  Huimin Zhao"
+    authors: " Xiong Xiong, Yanxiao Zhang, Jian Yan, Surbhi Jain, Sora Chee, Bing Ren<sup>#</sup>,  Huimin Zhao<sup>#</sup>"
     journal: " ACS synthetic biology"
     date: 2017-03-07
     doi:  10.1021/acssynbio.6b00358

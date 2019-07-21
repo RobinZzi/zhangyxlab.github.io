@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Siddarth Selvaraj, Jesse R Dixon, Vikas Bansal,  Bing Ren"
+    authors: " Siddarth Selvaraj*, Jesse R Dixon*, Vikas Bansal,  Bing Ren"
     journal: " Nature biotechnology"
     date: 2013-12
     doi:  10.1038/nbt.2728

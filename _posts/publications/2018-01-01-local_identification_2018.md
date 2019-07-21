@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Andrea Local, Hui Huang, Claudio P. Albuquerque, Namit Singh, Ah Young Lee, Wei Wang, Chaochen Wang, Judy E. Hsia, Andrew K. Shiau, Kai Ge, Kevin D. Corbett, Dong Wang, Huilin Zhou,  Bing Ren"
+    authors: " Andrea Local*, Hui Huang*, Claudio P. Albuquerque, Namit Singh, Ah Young Lee, Wei Wang, Chaochen Wang, Judy E. Hsia, Andrew K. Shiau, Kai Ge, Kevin D. Corbett, Dong Wang, Huilin Zhou,  Bing Ren"
     journal: " Nature Genetics"
     date: 2018-01
     doi:  10.1038/s41588-017-0015-6

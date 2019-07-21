@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Allen Wang, Feng Yue, Yan Li, Ruiyu Xie, Thomas Harper, Nisha A. Patel, Kayla Muth, Jeffrey Palmer, Yunjiang Qiu, Jinzhao Wang, Dieter K. Lam, Jeffrey C. Raum, Doris A. Stoffers, Bing Ren,  Maike Sander"
+    authors: " Allen Wang*, Feng Yue*, Yan Li*, Ruiyu Xie, Thomas Harper, Nisha A. Patel, Kayla Muth, Jeffrey Palmer, Yunjiang Qiu, Jinzhao Wang, Dieter K. Lam, Jeffrey C. Raum, Doris A. Stoffers, Bing Ren<sup>#</sup>,  Maike Sander<sup>#</sup>"
     journal: " Cell stem cell"
     date: 2015-04-02
     doi:  10.1016/j.stem.2015.02.013

@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Danny Leung, Tingting Du, Ulrich Wagner, Wei Xie, Ah Young Lee, Preeti Goyal, Yujing Li, Keith E. Szulwach, Peng Jin, Matthew C. Lorincz,  Bing Ren"
+    authors: " Danny Leung*, Tingting Du*, Ulrich Wagner*, Wei Xie, Ah Young Lee, Preeti Goyal, Yujing Li, Keith E. Szulwach, Peng Jin, Matthew C. Lorincz<sup>#</sup>,  Bing Ren<sup>#</sup>"
     journal: " Proceedings of the National Academy of Sciences of the United States of America"
     date: 2014-05-06
     doi:  10.1073/pnas.1322273111

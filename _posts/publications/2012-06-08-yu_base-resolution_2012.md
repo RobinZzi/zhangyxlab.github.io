@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Miao Yu, Gary C. Hon, Keith E. Szulwach, Chun-Xiao Song, Liang Zhang, Audrey Kim, Xuekun Li, Qing Dai, Yin Shen, Beomseok Park, Jung-Hyun Min, Peng Jin, Bing Ren,  Chuan He"
+    authors: " Miao Yu*, Gary C. Hon*, Keith E. Szulwach*, Chun-Xiao Song, Liang Zhang, Audrey Kim, Xuekun Li, Qing Dai, Yin Shen, Beomseok Park, Jung-Hyun Min, Peng Jin, Bing Ren<sup>#</sup>,  Chuan He<sup>#</sup>"
     journal: " Cell"
     date: 2012-06-08
     doi:  10.1016/j.cell.2012.04.027

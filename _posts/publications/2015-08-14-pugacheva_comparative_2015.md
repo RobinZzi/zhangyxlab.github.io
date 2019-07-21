@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Elena M. Pugacheva, Samuel Rivero-Hinojosa, Celso A. Espinoza, Claudia Fabiola Mendez-Catala, Sungyun Kang, Teruhiko Suzuki, Natsuki Kosaka-Suzuki, Susan Robinson, Vijayaraj Nagarajan, Zhen Ye, Abdelhalim Boukaba, John E. J. Rasko, Alexander V. Strunnikov, Dmitri Loukinov, Bing Ren,  Victor V. Lobanenkov"
+    authors: " Elena M. Pugacheva, Samuel Rivero-Hinojosa, Celso A. Espinoza, Claudia Fabiola Mendez-Catala, Sungyun Kang, Teruhiko Suzuki, Natsuki Kosaka-Suzuki, Susan Robinson, Vijayaraj Nagarajan, Zhen Ye, Abdelhalim Boukaba, John E. J. Rasko, Alexander V. Strunnikov, Dmitri Loukinov, Bing Ren<sup>#</sup>,  Victor V. Lobanenkov<sup>#</sup>"
     journal: " Genome biology"
     date: 2015-08-14
     doi:  10.1186/s13059-015-0736-8

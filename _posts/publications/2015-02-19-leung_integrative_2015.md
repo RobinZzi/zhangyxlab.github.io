@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Danny Leung, Inkyung Jung, Nisha Rajagopal, Anthony Schmitt, Siddarth Selvaraj, Ah Young Lee, Chia-An Yen, Shin Lin, Yiing Lin, Yunjiang Qiu, Wei Xie, Feng Yue, Manoj Hariharan, Pradipta Ray, Samantha Kuan, Lee Edsall, Hongbo Yang, Neil C. Chi, Michael Q. Zhang, Joseph R. Ecker,  Bing Ren"
+    authors: " Danny Leung*, Inkyung Jung*, Nisha Rajagopal*, Anthony Schmitt, Siddarth Selvaraj, Ah Young Lee, Chia-An Yen, Shin Lin, Yiing Lin, Yunjiang Qiu, Wei Xie, Feng Yue, Manoj Hariharan, Pradipta Ray, Samantha Kuan, Lee Edsall, Hongbo Yang, Neil C. Chi, Michael Q. Zhang, Joseph R. Ecker,  Bing Ren"
     journal: " Nature"
     date: 2015-02-19
     doi:  10.1038/nature14217

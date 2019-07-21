@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Yarui Diao, Rongxin Fang, Bin Li, Zhipeng Meng, Juntao Yu, Yunjiang Qiu, Kimberly C. Lin, Hui Huang, Tristin Liu, Ryan J. Marina, Inkyung Jung, Yin Shen, Kun-Liang Guan,  Bing Ren"
+    authors: " Yarui Diao*, Rongxin Fang*, Bin Li*, Zhipeng Meng, Juntao Yu, Yunjiang Qiu, Kimberly C. Lin, Hui Huang, Tristin Liu, Ryan J. Marina, Inkyung Jung, Yin Shen, Kun-Liang Guan,  Bing Ren"
     journal: " Nature Methods"
     date: 2017-06
     doi:  10.1038/nmeth.4264

@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " R. David Hawkins, Gary C. Hon, Chuhu Yang, Jessica E. Antosiewicz-Bourget, Leonard K. Lee, Que-Minh Ngo, Sarit Klugman, Keith A. Ching, Lee E. Edsall, Zhen Ye, Samantha Kuan, Pengzhi Yu, Hui Liu, Xinmin Zhang, Roland D. Green, Victor V. Lobanenkov, Ron Stewart, James A. Thomson,  Bing Ren"
+    authors: " R. David Hawkins*, Gary C. Hon*, Chuhu Yang, Jessica E. Antosiewicz-Bourget, Leonard K. Lee, Que-Minh Ngo, Sarit Klugman, Keith A. Ching, Lee E. Edsall, Zhen Ye, Samantha Kuan, Pengzhi Yu, Hui Liu, Xinmin Zhang, Roland D. Green, Victor V. Lobanenkov, Ron Stewart, James A. Thomson<sup>#</sup>,  Bing Ren<sup>#</sup>"
     journal: " Cell research"
     date: 2011-10
     doi:  10.1038/cr.2011.146

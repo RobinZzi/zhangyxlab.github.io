@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " R. David Hawkins, Gary C. Hon, Leonard K. Lee, Queminh Ngo, Ryan Lister, Mattia Pelizzola, Lee E. Edsall, Samantha Kuan, Ying Luu, Sarit Klugman, Jessica Antosiewicz-Bourget, Zhen Ye, Celso Espinoza, Saurabh Agarwahl, Li Shen, Victor Ruotti, Wei Wang, Ron Stewart, James A. Thomson, Joseph R. Ecker,  Bing Ren"
+    authors: " R. David Hawkins*, Gary C. Hon*, Leonard K. Lee, Queminh Ngo, Ryan Lister, Mattia Pelizzola, Lee E. Edsall, Samantha Kuan, Ying Luu, Sarit Klugman, Jessica Antosiewicz-Bourget, Zhen Ye, Celso Espinoza, Saurabh Agarwahl, Li Shen, Victor Ruotti, Wei Wang, Ron Stewart, James A. Thomson, Joseph R. Ecker,  Bing Ren"
     journal: " Cell stem cell"
     date: 2010-05-07
     doi:  10.1016/j.stem.2010.03.018

@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Siddarth Selvaraj, Anthony D. Schmitt, Jesse R. Dixon,  Bing Ren"
+    authors: " Siddarth Selvaraj*, Anthony D. Schmitt*, Jesse R. Dixon,  Bing Ren"
     journal: " BMC genomics"
     date: 2015-11-05
     doi:  10.1186/s12864-015-1949-7

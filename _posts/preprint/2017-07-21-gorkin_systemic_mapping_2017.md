@@ -6,7 +6,7 @@ categories:
     - preprint
 ## publication related information
 pub:
-    authors: " David Gorkin, Iros Barozzi, Yanxiao Zhang, Ah Young Lee, Bin Lee, Yuan Zhao, Andre Wildberg, Bo Ding, Bo Zhang, Mengchi Wang, J Seth Strattan, Jean M Davidson, Yunjiang Qiu, Veena Afzal, Jennifer A Akiyama, Ingrid Plajzer-Frick, Catherine S Pickle, Momoe Kato, Tyler H Garvin, Quan T Pham, Anne N Harrington, Brandon J Mannion, Elizabeth A Lee, Yoko Fukuda-Yuzawa, Yupeng He, Sebastian Preissl, Sora Chee, Brian A Williams, Diane Trout, Henry Amrhein, Hongbo Yang, J Michael Cherry, Yin Shen, Joseph R Ecker, Wei Wang, Diane E Dickel, Axel Visel, Len A Pennacchio, Bing Ren"
+    authors: " David Gorkin*, Iros Barozzi*, Yanxiao Zhang*, Ah Young Lee, Bin Lee, Yuan Zhao, Andre Wildberg, Bo Ding, Bo Zhang, Mengchi Wang, J Seth Strattan, Jean M Davidson, Yunjiang Qiu, Veena Afzal, Jennifer A Akiyama, Ingrid Plajzer-Frick, Catherine S Pickle, Momoe Kato, Tyler H Garvin, Quan T Pham, Anne N Harrington, Brandon J Mannion, Elizabeth A Lee, Yoko Fukuda-Yuzawa, Yupeng He, Sebastian Preissl, Sora Chee, Brian A Williams, Diane Trout, Henry Amrhein, Hongbo Yang, J Michael Cherry, Yin Shen, Joseph R Ecker, Wei Wang, Diane E Dickel, Axel Visel, Len A Pennacchio, Bing Ren"
     journal: " bioRxiv"
     date: 2017-07-21
     doi:  https://doi.org/10.1101/166652
