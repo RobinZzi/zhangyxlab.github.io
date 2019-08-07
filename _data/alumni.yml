@@ -51,7 +51,7 @@
   curr_position: Assistant Professor, Case Western Reserve University
 
 - name: "Yan Li, Ph.D."
-  year: 2017-2014
+  year: 2007-2014
   prev_position: Postdoctoral Fellow
   curr_position: Assistant Professor, Case Western Reserve University
 
@@ -126,8 +126,9 @@
   prev_position: Graduate Student
   curr_position: Fellow, Salk Institute 
 
-- name: "Gary Hon,, Ph.D."
-  prev_position: Graduate Student
+- name: "Gary Hon, Ph.D."
+  year: 2004-2009(PhD)-2014
+  prev_position: Graduate Student & Postdoc
   curr_position: Assistant Professor, UT Southwestern
 
 - name: "Nisha Rajagopal, Ph.D."
