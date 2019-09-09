@@ -72,10 +72,6 @@
   position: PhD candidate
   email: yuq003@eng.ucsd.edu
 
-- name: "Anugraha Raman"
-  position: PhD candidate
-  email: amraman@ucsd.edu
-
 - name: "Ramya Raviram"
   position: Postdoctoral Fellow
   email: rraviram@ucsd.edu
@@ -100,8 +96,4 @@
   position: Postdoctoral Fellow 
   email: shz254@ucsd.edu
   short-description: Yanxiao obtained his PhD in Bioinformatics at University of Michigan and joined Renlab in 2016. 
-
-- name: "Yuan Zhao"
-  position: PhD candidate
-  email: yuz207@eng.ucsd.edu
 

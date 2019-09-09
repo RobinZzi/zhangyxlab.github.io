@@ -97,6 +97,26 @@
   
 
 # Graduate Student
+#- name: "Rongxin Fang"
+#  year: 2015-2019
+#  prev_position: Graduate Student
+#  curr_position: Postdoctoral fellow, Xiaowei Zhuang's lab
+
+#- name: "Yunjiang Qiu"
+#  year: 2014-2019
+#  prev_position: Graduate Student
+#  curr_position: Scientist, Illunima 
+
+- name: "Anugraha Raman"
+  year: 2013-2019
+  prev_position: Graduate Student 
+  curr_position: Associate Scientist, Computational Biology at Fulcrum Therapeutics
+
+- name: "Yuan Zhao"
+  year: 2015-2019
+  prev_position: Graduate Student 
+  curr_position: Data Scientist, Encoded Therapeutics
+
 - name: "Anthony Schmitt"
   year: 2012-2016
   prev_position: Graduate Student
@@ -165,7 +185,7 @@
   curr_position: Resident Physician, Wheaton Franciscan Healthcare
 
 - name: "Lindsey Harp"
-  year: 2006 - 2008
+  year: 2006-2008
   prev_position: Research Associate
   curr_position: Technical Sales Specialist, Thermo Fisher Scientific
 
