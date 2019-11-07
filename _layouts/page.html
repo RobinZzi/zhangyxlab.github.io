@@ -39,9 +39,11 @@ format: post
 			{{ content }}
 			</div>
 
+{% comment %}
 			{% if page.show_meta == true %}
 			{% include _meta_information.html %}
 			{% endif %}
+{% endcomment %}
 
 			{% if page.comments == true %}
 			{% include _comments.html %}

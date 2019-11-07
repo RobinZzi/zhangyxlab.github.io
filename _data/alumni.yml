@@ -16,7 +16,7 @@
   curr_position: Assistant Professor, City University of Hong Kong
 
 - name: "Sebastian Preissl, Ph.D."
-  year: 2015-2018
+  year: 2015-2017
   prev_position: Postdoctoral Fellow
   curr_position: Associate Director, Epigenomics Center @UCSD
 
@@ -35,23 +35,13 @@
   prev_position: Postdoctoral Fellow
   curr_position: Assistant Professor, Hong Kong Univ. Science & Technology
 
-- name: "Celso A. Espinoza, Ph.D."
+- name: "Wei Xie, Ph.D."
+  year: 2009-2013
   prev_position: Postdoctoral Fellow
-  year: 2007-2015
-  curr_position: Senior scientist II, AbbVie
-
-- name: "Andrea (Smallwood) Local , Ph.D."
-  prev_position: Postdoctoral Fellow
-  year: 2007-2015
-  curr_position: Senior scientist , Celgene
-
-- name: "Fulai Jin, Ph.D."
-  prev_position: Postdoctoral Fellow
-  year: 2007-2014
-  curr_position: Assistant Professor, Case Western Reserve University
+  curr_position: Research Investigator, Tsinghua University
 
 - name: "Yan Li, Ph.D."
-  year: 2007-2014
+  year: 2009-2015
   prev_position: Postdoctoral Fellow
   curr_position: Assistant Professor, Case Western Reserve University
 
@@ -70,10 +60,20 @@
   prev_position: Postdoctoral Fellow
   curr_position: Assistant Professor, Penn State University
 
-- name: "Wei Xie, Ph.D."
-  year: 2009-2013
+- name: "Celso A. Espinoza, Ph.D."
   prev_position: Postdoctoral Fellow
-  curr_position: Research Investigator, Tsinghua University
+  year: 2007-2014
+  curr_position: Senior scientist II, AbbVie
+
+- name: "Fulai Jin, Ph.D."
+  prev_position: Postdoctoral Fellow
+  year: 2007-2014
+  curr_position: Assistant Professor, Case Western Reserve University
+
+- name: "Andrea Local , Ph.D."
+  prev_position: Postdoctoral Fellow
+  year: 2007-2014
+  curr_position: Senior scientist, Celgene
 
 - name: "R. David Hawkins, Ph.D."
   year: 2005-2010
@@ -97,15 +97,16 @@
   
 
 # Graduate Student
-#- name: "Rongxin Fang"
-#  year: 2015-2019
-#  prev_position: Graduate Student
-#  curr_position: Postdoctoral fellow, Xiaowei Zhuang's lab
+- name: "Rongxin Fang"
+  year: 2015-2019
+  prev_position: Graduate Student
+  curr_position: Postdoctoral fellow, Harvard University 
 
-#- name: "Yunjiang Qiu"
-#  year: 2014-2019
-#  prev_position: Graduate Student
-#  curr_position: Scientist, Illunima 
+- name: "Yunjiang Qiu"
+  year: 2014-2019
+  prev_position: Graduate Student
+  curr_position: Scientist, Illunima 
+
 
 - name: "Anugraha Raman"
   year: 2013-2019
@@ -122,38 +123,50 @@
   prev_position: Graduate Student
   curr_position: Vice President, Research and Development at Arima Genomics, Inc.
 
+- name: "Siddarth Selvaraj"
+  year: 2011-2014
+  prev_position: Graduate Student
+  curr_position: Founder and CEO, Arima Genomics, Inc. 
+
+- name: "Jesse Dixon, Ph.D."
+  year: 2009-2013
+  prev_position: Graduate Student
+  curr_position: Fellow, Salk Institute 
+
 - name: "Chloe Rivera"
-  year: 2008-2015
+  year: 2009-2015
   prev_position: Graduate Student
   curr_position: Engagement Manager at McKinsey & Co
 
-- name: "Leah O. Barrera"
-  year: 2003-2007
+- name: "Nisha Rajagopal, Ph.D."
+  year: 2009-2013
   prev_position: Graduate Student
-  curr_position: Scientist, Ambit Biosciences
-
-- name: "Nathaniel D. Heintzman, Ph.D."
-  year: 2002-2007
-  prev_position: Graduate Student
-  curr_position: Director, Data Partnerships, Dexcom,Inc.
-
-- name: "Nathaniel Maynard, Ph.D."
-  year: 2002-2008
-  prev_position: Graduate Student
-  curr_position: Senior Scientist, Synthetic Genomics
-
-- name: "Jesse Dixon, Ph.D."
-  prev_position: Graduate Student
-  curr_position: Fellow, Salk Institute 
+  curr_position: Senior Scientist, Syros Pharmaceuticals
 
 - name: "Gary Hon, Ph.D."
   year: 2004-2009(PhD)-2014
   prev_position: Graduate Student & Postdoc
   curr_position: Assistant Professor, UT Southwestern
 
-- name: "Nisha Rajagopal, Ph.D."
+- name: "Saurabh Agarwal"
+  year: 2005-2011
   prev_position: Graduate Student
-  curr_position: Senior Scientist, Syros Pharmaceuticals
+  curr_position: Postdoc at University of Michigan
+
+- name: "Leah O. Barrera"
+  year: 2003-2007
+  prev_position: Graduate Student
+  curr_position: Scientist, Ambit Biosciences
+
+- name: "Nathaniel Maynard, Ph.D."
+  year: 2002-2008
+  prev_position: Graduate Student
+  curr_position: Senior Scientist, Synthetic Genomics
+
+- name: "Nathaniel D. Heintzman, Ph.D."
+  year: 2002-2007
+  prev_position: Graduate Student
+  curr_position: Director, Data Partnerships, Dexcom,Inc.
 
 
 # Research Associate 
