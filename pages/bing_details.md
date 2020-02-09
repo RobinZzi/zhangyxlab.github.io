@@ -1,31 +1,35 @@
 ---
 layout: page-fullwidth
-title: "Bing Ren"
+title: "Bing Ren, Ph.D."
 
 permalink: "/bing/"
 ---
  <img src="{{site.urlimg}}team-bingren.jpg">
 
-## Bio
-My research is focused on genomic and epigenomic analyses of human embryonic stem cell differentiation and mammalian development. My lab has contributed to the annotation of transcriptional regulatory sequences in the human and mouse genomes, characterization of epigenomes of the human cell types, and understanding of the chromatin architecture in mammalian cells. I have been a participant of the ENCODE consortium since 2003, and a member of the NIH Roadmap Epigenomic Project since 2008. 
+## Research
 
-I am a member of the Ludwig Institute in San Diego where I lead the effort to generate epigenomic profiles for several neuronal cell types during different development stages.
+I joined the Ludwig Institute for Cancer Research in 2001. My laboratory is investigating the mechanisms of gene regulation in normal and cancer cells.  My study has contributed to the understanding of genome organization and regulation in human cells.  In particular, I invented a transformative approach for genome-wide determination of transcription factor binding and chromatin modification. My lab produced the first comprehensive maps of transcriptional regulatory sequences in the human genome that helped to advance our understanding of the dynamic and cell-type specific expression of genes.  My lab further elucidated the general principles of chromosome folding and organization.  We have also applied the tools and knowledge of gene regulation to study of human cancers, through close collaborations with researchers at the Ludwig Institute and UCSD. 
+## Selected Honors
+* Sidney Kimmel Scholar Award 
+* Distinguished Young Investigator Award, Chinese Biological Investigators Society 
+* Elected as Fellow of the American Association for the Advancement of Science 
+* Named “World’s Most Influential Scientific Minds” by Thomson Reuters 
+* Chen Award for Distinguished Academic Achievement in Human Genetic and Genomic Research 
+* Speaker, the Max Birnstiel Lecture at the Institute of Molecular Pathology, Austria (2019)
+* Keynote Speaker, International Human Epigenome Consortium meeting (2019)
 
-I received my PhD training in gene regulation from Dr. Tom Maniatis at Harvard University, then extended my research in genomics and global analysis of gene expression by working as a postdoctoral fellow in Dr. Richard Young’s lab at Whitehead Institute. During this time I developed the ChIP-chip technology, one of the main genomic approaches for studying in vivo transcription factor binding and chromatin modification states.
+## Selected National/International Professional Activities
+* Senior Editor, Cancer Research, published by the American Association of Cancer Research
+* Member, Scientific Advisory Board of the Keystone Conferences
+* Member, the Cancer Genetics study section (CG) of NIH Center for Scientific Review
+* Associate Editor, Wiley Interdisciplinary Reviews (WIRES): Systems Biology
+* Associate Editor, PLoS Genetics (2009 – 2015)
+* Reviewing Editor, eLife (2014-2017)
+* Co-organizer of the Cold Spring Harbor Laboratory Conference on Systems Biology (2007, 2008)
+* Co-organizer of the Cold Spring Harbor Asia Conferences on “Systems Biology” (2011, 2012, 2017)
+* Co-organizer of two Keystone Conferences (2015, 2019)
 
-From 2003 to 2007 I led one of the ENCODE pilot production projects to demonstrate the feasibility of ChIP-chip as a general approach for identification of transcriptional regulatory elements in the human genome. My lab produced the first high-resolution map of human promoters, enhancers and potential insulators, and discovered unique chromatin modification signatures at enhancers. Since 2008 I have been directing the San Diego Epigenome Center, one of four Reference Epigenome Mapping Centers supported by the NIH Epigenome Roadmap program.
+## Prior position
 
-Our center has produced detailed maps, histone modifications, DNA methylation and transcriptome for a number of pluripotent and lineage-committed human cell types, and has made several original discoveries related to epigenetic signatures of stem cells.  Our current research is a natural extension of epigenomic analysis and will likely lead not only to new experimental paradigms for neural development research, but also to new insights into the role of epigenomes in glutamateric and GATAergic neurons.
+I obtained my Ph.D. in Biochemistry from Harvard University in 1998 and then carried out postdoctoral training at the Whitehead Institute from 1998 to 2001. In 2001, I chose to join the Ludwig Institute for Cancer Research, over tenure-track positions in other Institutions (such as Memorial Sloan Kettering Cancer Center) because of the prospective that the Institute would provide long-term research support and full salary, which enables me to pursue highly innovative research.  I was promoted to Member of Ludwig and full Professor at UC San Diego in 2009.  In 2016, I turned down a directorship position at the University of Chicago to remain on the Ludwig faculty, because of the outstanding scientific environment and long-term salary and research support provided by the institute.  
 
-## Education
-* PhD, Biochemistry Harvard, University
-* Postdoctoral training in Genomics, Gene Regulation, Whitehead Institute for Biomedical Research
-
-
-## Achievements
-* Paul Mazur Fellowship in Experimental Biology, Harvard University, 1994
-* Harvard Certificate of Distinction in Teaching, Harvard University, 1997
-* Helen Hay Whitney Foundation Postdoctoral Fellowship, 1999
-* Kimmel Scholar Award, 2002
-* Young Investigator Award, the Chinese Biological Investigators’ Society, 2007
-* Member, GCAT Study Section, 2009
