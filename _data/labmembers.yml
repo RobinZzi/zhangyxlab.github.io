@@ -1,5 +1,13 @@
 ### Put in the lab members 
 
+- name: "Yang Xie"
+  position: Graduate Student
+  email: y2xie@health.ucsd.edu
+
+- name: "Nathan Zemke"
+  position: Postdoctoral Fellow
+  email: nzemke@health.ucsd.edu
+
 - name: "Bojing Blair Jia"
   position: Graduate Student
   email: b2jia@ucsd.edu
@@ -10,7 +18,7 @@
 
 - name: "Luisa Amaral"
   position: Graduate Student
-  email: luisaj.amaral@gmail.com
+  email: lamaral@eng.ucsd.edu 
 
 - name: "Adam Jussila"
   position: Graduate Student
@@ -20,11 +28,7 @@
   position: Postdoctoral Fellow
   email: kaz007@ucsd.edu
 
-- name: "Shan Mandy Jiang"
-  position: Postdoctoral Fellow
-  email: mandyjiang@ucsd.edu
-
-- name: "Yang Li"
+- name: "Yang Eric Li"
   position: Postdoctoral Fellow
   email: yal054@ucsd.edu 
 
@@ -45,13 +49,9 @@
   email: roh026@ucsd.edu
 
 - name: "Hui Huang"
-  position: PhD student
+  position: Graduate Student
   email: huh025@ucsd.edu
   
-- name: "Haruhiko Ishii"
-  position: Research Scientist
-  email: hishii@ucsd.edu
-
 - name: "Samantha Kuan"
   position: Lab Manager
   email: sakuan@ucsd.edu
@@ -68,10 +68,6 @@
   position: Postdoctoral Fellow
   email: gul030@ucsd.edu
 
-- name: "Ramya Raviram"
-  position: Postdoctoral Fellow
-  email: rraviram@ucsd.edu
-
 - name: "Bernadeth Torres"
   position: Laboratory Administrator
   email: bet003@ucsd.edu
@@ -80,10 +76,6 @@
   position: Lab Manager
   email: zhye@ucsd.edu
 
-- name: "Miao Yu"
-  position: Postdoctoral Fellow
-  email: miy059@ucsd.edu
-
 - name: "Chenxu Zhu"
   position: Postdoctoral Fellow
   email: chz272@ucsd.edu
@@ -91,5 +83,4 @@
 - name: "Yanxiao Zhang"
   position: Postdoctoral Fellow 
   email: shz254@ucsd.edu
-  short-description: Yanxiao obtained his PhD in Bioinformatics at University of Michigan and joined Renlab in 2016. 
 

@@ -1,4 +1,23 @@
 # Postdoctoral Fellow
+- name: "Ramya Raviram"
+  year: "2017-2020"
+  prev_position: Postdoctoral Fellow
+  curr_position: Postdoctoral Fellow, Weill Cornell 
+
+- name: "Miao Yu"
+  year: "2015-2020"
+  prev_position: Postdoctoral Fellow
+  curr_position: Assistant Professor, Fudan University
+
+- name: "Shan Mandy Jiang"
+  year: 2019-2020
+  prev_position: Postdoctoral Fellow
+  curr_position: Bioinformatics Scientist, AccuraGen.
+
+- name: "Haruhiko Ishii"
+  year: 2008-2020
+  prev_position: Research Scientist
+  curr_position: Scientist, Fate Therapeutics Inc. 
 
 - name: "Quan Zhu"
   year: "2018-2019"
@@ -6,7 +25,7 @@
   curr_position: Associate Director, Epigenomics Center @UCSD
 
 - name: "Yarui Diao"
-  year: "2014-2018"
+  year: "2013-2018"
   prev_position: Postdoctoral Fellow
   curr_position: Assistant Professor, Duke University
 
@@ -15,82 +34,82 @@
   prev_position: Postdoctoral Fellow
   curr_position: Assistant Professor, City University of Hong Kong
 
-- name: "Sebastian Preissl, Ph.D."
+- name: "Sebastian Preissl"
   year: 2015-2017
   prev_position: Postdoctoral Fellow
   curr_position: Associate Director, Epigenomics Center @UCSD
 
-- name: "David Gorkin, Ph.D."
+- name: "David Gorkin"
   year: 2013-2017
   prev_position: Postdoctoral Fellow
   curr_position: Associate Director, Epigenomics Center @UCSD
 
-- name: "Inkyung Jung, Ph.D."
+- name: "Inkyung Jung"
   year: 2012-2016
   prev_position: Postdoctoral Fellow
   curr_position: Assistant Professor, KAIST
 
-- name: "Danny Leung, Ph.D."
+- name: "Danny Leung"
   year: 2012-2015
   prev_position: Postdoctoral Fellow
   curr_position: Assistant Professor, Hong Kong Univ. Science & Technology
 
-- name: "Wei Xie, Ph.D."
+- name: "Wei Xie"
   year: 2009-2013
   prev_position: Postdoctoral Fellow
   curr_position: Professor, Tsinghua University
 
-- name: "Yan Li, Ph.D."
+- name: "Yan Li"
   year: 2009-2015
   prev_position: Postdoctoral Fellow
   curr_position: Assistant Professor, Case Western Reserve University
 
-- name: "Tingting Du, Ph.D."
+- name: "Tingting Du"
   year: 2008-2015
   prev_position: Postdoctoral Fellow
   curr_position: Oncology Scientist, Illunima
 
-- name: "Yin Shen, Ph.D."
+- name: "Yin Shen"
   year: 2008-2014
   prev_position: Postdoctoral Fellow
   curr_position: Assistant Professor, UCSF
 
-- name: "Feng Yue, Ph.D."
+- name: "Feng Yue"
   year: 2008-2013
   prev_position: Postdoctoral Fellow
   curr_position: Associate Professor, Northwestern University
 
-- name: "Celso A. Espinoza, Ph.D."
+- name: "Celso A. Espinoza"
   prev_position: Postdoctoral Fellow
   year: 2007-2014
   curr_position: Senior scientist II, AbbVie
 
-- name: "Fulai Jin, Ph.D."
+- name: "Fulai Jin"
   prev_position: Postdoctoral Fellow
   year: 2007-2014
   curr_position: Assistant Professor, Case Western Reserve University
 
-- name: "Andrea Local , Ph.D."
+- name: "Andrea Local "
   prev_position: Postdoctoral Fellow
   year: 2007-2014
   curr_position: Senior scientist, Celgene
 
-- name: "R. David Hawkins, Ph.D."
+- name: "R. David Hawkins"
   year: 2005-2010
   prev_position: Postdoctoral Fellow
   curr_position: Associate Professor, U. Washington, Seattle
 
-- name: "Zirong Li, Ph.D."
+- name: "Zirong Li"
   year: "2002-2007"
   prev_position: Postdoctoral Fellow
   curr_position: Scientist, Millipore
 
-- name: "Kun Wang, Ph.D."
+- name: "Kun Wang"
   year: "2003-2005"
   prev_position: Postdoctoral Fellow
   curr_position: Patent Attorney at GNF
 
-- name: "Tae Hoon Kim, Ph.D."
+- name: "Tae Hoon Kim"
   year: "2002-2006"
   prev_position: Postdoctoral Fellow
   curr_position: Associate Professor, University of Texas at Dallas
@@ -128,7 +147,7 @@
   prev_position: Graduate Student
   curr_position: Founder and CEO, Arima Genomics, Inc. 
 
-- name: "Jesse Dixon, Ph.D."
+- name: "Jesse Dixon"
   year: 2009-2013
   prev_position: Graduate Student
   curr_position: Fellow, Salk Institute 
@@ -138,12 +157,12 @@
   prev_position: Graduate Student
   curr_position: Engagement Manager at McKinsey & Co
 
-- name: "Nisha Rajagopal, Ph.D."
+- name: "Nisha Rajagopal"
   year: 2009-2013
   prev_position: Graduate Student
   curr_position: Senior Scientist, Syros Pharmaceuticals
 
-- name: "Gary Hon, Ph.D."
+- name: "Gary Hon"
   year: 2004-2009(PhD)-2014
   prev_position: Graduate Student & Postdoc
   curr_position: Assistant Professor, UT Southwestern
@@ -158,12 +177,12 @@
   prev_position: Graduate Student
   curr_position: Scientist, Ambit Biosciences
 
-- name: "Nathaniel Maynard, Ph.D."
+- name: "Nathaniel Maynard"
   year: 2002-2008
   prev_position: Graduate Student
   curr_position: Senior Scientist, Synthetic Genomics
 
-- name: "Nathaniel D. Heintzman, Ph.D."
+- name: "Nathaniel D. Heintzman"
   year: 2002-2007
   prev_position: Graduate Student
   curr_position: Director, Data Partnerships, Dexcom,Inc.
@@ -187,7 +206,7 @@
   prev_position: Research Associate
   curr_position: PhD student, University of Southern California
 
-- name: "Lee Esall, Ph.D."
+- name: "Lee Esall"
   year: 2007-2013
   prev_position: Research Associate/Bioinformatician
   curr_position: Research Fellow, Cincinnati Children's Medical Center

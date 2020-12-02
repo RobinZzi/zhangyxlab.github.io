@@ -25,5 +25,5 @@ Our results demonstrate that common DNA sequence variants can influence 3D chrom
 
 
 
-> Full text can be assessed free of charge from the following [link](https://doi.org/10.1186/s13059-019-1855-4)
+> Full text can be accessed free of charge from the following [link](https://doi.org/10.1186/s13059-019-1855-4)
 

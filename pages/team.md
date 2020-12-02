@@ -16,10 +16,9 @@ permalink: "/team/"
 <table>
 {% for member in site.data.labmembers %}
  <tr>
- <td> <b>{{member.name}} </b>
+ <td> <b> <a href="mailto:{{member.email}}">{{member.name}} </a>  </b>
  {% if member.url %} <a href="{{member.url}}"> &lt;website&gt;</a> {% endif %} </td>
  <td>{{member.position}} </td>
- <td>{{member.email}} </td>
  </tr>
 {% endfor %}
 </table>
