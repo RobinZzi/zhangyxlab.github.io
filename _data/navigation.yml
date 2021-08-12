@@ -26,9 +26,9 @@
 #  - title: "Peer Reviewed"
 #    url: "/publications/peer-reviewed/"
 
-- title: "Download"
-  url: "/download/"
-  side: left
+#- title: "Download"
+#  url: "/download/"
+#  side: left
 
 - title: "Gallery"
   url: "/gallery/"
@@ -38,9 +38,9 @@
 #  url: "/documentation/"
 #  side: left
 
-- title: "Search"
-  url: "/search/"
-  side: right
+#- title: "Search"
+#  url: "/search/"
+#  side: right
 
 - title: "Contact"
   url: "/contact/"
