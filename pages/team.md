@@ -9,7 +9,7 @@ permalink: "/team/"
 ##### Principle Investigator
 <br>
  <img src="{{site.urlimg}}team-bingren.jpg">
-<b> <a href="{{site.url}}{{site.baseurl}}bing/"> Bing Ren, PhD. </a> </b>
+<b> Yanxiao Zhang, PhD. </a> </b>
 <hr>
 ##### Current members
 <br>
@@ -23,8 +23,10 @@ permalink: "/team/"
 {% endfor %}
 </table>
 <hr>
+
 ##### Alumni
 
+<!-- 
 
 <table>
  <tr><th> Name </th> <th>Prev. Pos</th>><th> Year</th> <th> Curr. Pos </th> </tr>
@@ -38,5 +40,7 @@ permalink: "/team/"
  </tr>
 {% endfor %}
 </table>
+
+--> 
 
 (Please contact website <a href="mailto:shz254@ucsd.edu">admin</a> to correct any mistakes or missing information.)
