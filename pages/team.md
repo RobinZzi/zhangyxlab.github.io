@@ -1,6 +1,9 @@
 ---
 layout: page-fullwidth
 title: "Team"
+header:
+  title: Team
+
 meta_title: "Lab members"
 subheadline: # "Wufoo-powered contact forms"
 #teaser: "Get in touch with me? Use the contact form."
