@@ -8,8 +8,7 @@ permalink: "/team/"
 ---
 ##### Principle Investigator
 <br>
- <img src="{{site.urlimg}}team-bingren.jpg">
-<b> Yanxiao Zhang, PhD. </a> </b>
+<b> Yanxiao Zhang, PhD. </b>
 <hr>
 ##### Current members
 <br>
