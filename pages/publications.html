@@ -7,7 +7,21 @@ header:
 permalink: "/publication/"
 ---
 <a href="https://scholar.google.com/citations?user=YA5MtwsAAAAJ&hl=en"> For a complete list of Yanxia Zhang's publications, click here.</a> <br>
-<a href="{{ site.url }}/{{site.baseurl}}/publication/preprint/">For preprints, please click here.  </a><br>
+<!-- <a href="{{ site.url }}/{{site.baseurl}}/publication/preprint/">For preprints, please click here.  </a><br> 
+
+
+<ul>
+{% for post in site.categories.preprint %}
+    <li>
+      <i><b>{{ post.title }} </b> </i>
+     <br> {{post.pub.authors}} <br>
+      <b> {{post.pub.journal}}</b>, {{post.date|date: '%Y %B %d'}}; doi:<a href="{{post.pub.doi}}">{{post.pub.doi}}</a>
+    </li>
+    <br>
+  {% endfor %}
+</ul>
+-->
+
 Below is a list of representative peer-reviewed publications. (*equal contribution. <sup>#</sup>co-correspondence.)
 
 {% capture lyear %} {{site.categories.publication.first.date |date: '%Y' }} {% endcapture %}

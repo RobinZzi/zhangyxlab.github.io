@@ -2,9 +2,9 @@
   url: "/"
   side: left
 
-- title: News
-  url: "/news/"
-  side: left
+#- title: News
+#  url: "/news/"
+#  side: left
 
 - title: "Research"
   url: "/research/"
@@ -20,9 +20,9 @@
 - title: "Publication"
   url: "/publication/"
   side: left
-  dropdown:
-  - title: "Preprint"
-    url: "/publication/preprint/"
+#  dropdown:
+#  - title: "Preprint"
+#    url: "/publication/preprint/"
 #  - title: "Peer Reviewed"
 #    url: "/publications/peer-reviewed/"
 

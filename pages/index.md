@@ -29,7 +29,7 @@ permalink: /index.html
 #
 homepage: true
 ---
-<b> About the PI </b>: Dr. Yanxiao Zhang received his bachelor’s degree in Biotechnology from Beijing University in 2010. He then obtained a PhD degree in Bioinformatics (advisor: Dr. Maureen Sartor) and master’s degree in Statistics from the University of Michigan in 2016. He completed his postdoctoral work in Dr. Bing Ren’s lab at Ludwig Institute for Cancer Research (UCSD branch), studying the dynamics of chromatin states during mammalian development (as part of ENCODE) and 3-dimenstional chromatin structure. Click here to see Dr. Zhang's complete <a href="{{site.url}}/{{site.baseurl}}/assets/img/YanxiaoZhang_CV.pdf"> </a>.
+<b> About the PI </b>: Dr. Yanxiao Zhang received his bachelor’s degree in Biotechnology from Beijing University in 2010. He then obtained a PhD degree in Bioinformatics (advisor: Dr. Maureen Sartor) and master’s degree in Statistics from the University of Michigan in 2016. He completed his postdoctoral work in Dr. Bing Ren’s lab at Ludwig Institute for Cancer Research (UCSD branch), studying the dynamics of chromatin states during mammalian development (as part of ENCODE) and 3-dimenstional chromatin structure. Click here to see Dr. Zhang's complete <a href="{{site.url}}/{{site.baseurl}}/assets/img/YanxiaoZhang_CV.pdf"> CV </a>.
 
-Our lab will use computational and functional genomics tools to study the mechanisms of aging and cancer, with a primary focus on epigenetic regulations. We will investigate how the dysfunction of heterochromatin, repetitive elements and transposons contributes to the oncogenic and aging processes. 
+<b> About the Lab </b>: Our lab will use computational and functional genomics tools to study the mechanisms of aging and cancer, with a primary focus on epigenetic regulations. We will investigate how the dysfunction of heterochromatin, repetitive elements and transposons contributes to the oncogenic and aging processes. 
 
