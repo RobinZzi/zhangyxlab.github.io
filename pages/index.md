@@ -4,20 +4,10 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage
+layout: page-fullwidth
 header:
   image: "ZhangLab_logo.png"
   background-color: "#FFFFFF"
-widget1:
-  title: "Identifying the transcriptional regulatory sequences in genomes"
-  url: '/research/#identifying-the-transcriptional-regulatory-sequences-in-genomes'
-widget2:
-  title: "Epigenetic mechanisms involved in cancer and aging"
-  url: '/research/#epigenetic-mechanisms-regulating-pluripotency-and-lineage-commitment'
-
-widget3:
-  title: "Higher-order genome architecture"
-  url: "/research/#higher-order-genome-architecture"
 #
 # Use the call for action to show a button on the frontpage
 #

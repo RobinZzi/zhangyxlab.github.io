@@ -1,17 +1,17 @@
 - name: GitHub
-  url: http://github.com/ren-lab
+  url: http://github.com/zhangyxlab
   class: icon-github
-  title: Code und mehr...
+  title: "Code und mehr..."
 
-# - name: Twitter
-#  url: http://twitter.com/
-#  class: icon-twitter
-#  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+- name: Twitter
+  url: http://twitter.com/shawnzhangyx
+  class: icon-twitter
+  title: "Twitter"
 
-#- name: Mixcloud
-#  url: http://www.mixcloud.com/phlow/
-#  class: icon-cloud
-#  title: "Mixe, was sonst?"
+- name: LinkedIn
+  url: http://www.linkedin.com/in/yanxiao-zhang-1b512b39/
+  class: icon-linkedin
+  title: "LinkedIn"
 
 #- name: Phlow YouTube Google+
 #  url: https://plus.google.com/u/0/+Phlow

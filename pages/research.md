@@ -2,8 +2,8 @@
 layout: page-fullwidth
 title: "Research"
 header:
-  title: Research Areas
-  image_fullwidth: header_drop.jpg
+  image: "ZhangLab_logo.png"
+  background-color: "#FFFFFF"
 permalink: "/research/"
 breadcrumb: false 
 teaser: Our lab has been focused on using Bioinformatics and Genomics tools to study cancer and aging.  

@@ -2,7 +2,8 @@
 layout: page-fullwidth
 title: "Team"
 header:
-  title: Team
+  image: "ZhangLab_logo.png"
+  background-color: "#FFFFFF"
 
 meta_title: "Lab members"
 subheadline: # "Wufoo-powered contact forms"

@@ -30,12 +30,8 @@
 #  url: "/download/"
 #  side: left
 
-- title: "Gallery"
-  url: "/gallery/"
-  side: left
-
-# - title: Documentation
-#  url: "/documentation/"
+#- title: "Gallery"
+#  url: "/gallery/"
 #  side: left
 
 #- title: "Search"

@@ -7,7 +7,7 @@
 
 url: 		'http://127.0.0.1/'
 baseurl: 	'zhangyxlab'
-urlimg: 	'http:/127.0.0.1/zhangyxlab/images'
+urlimg: 	'http://127.0.0.1/zhangyxlab/images/'
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:
