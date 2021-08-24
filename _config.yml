@@ -11,7 +11,7 @@
 title: 'ZHANGLAB'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Laboratory of Computational Biology'
+slogan: 'Computational and Functional Genomics Lab'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
@@ -42,7 +42,7 @@ urlimg: 'https://github.com/zhangyxlab/zhangyxlab.github.io/tree/master/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "ZhangLab_logo.png"
 
 # Gems
 gems:

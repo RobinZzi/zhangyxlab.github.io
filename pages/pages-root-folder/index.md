@@ -6,7 +6,8 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: ludwig_Ren_Lab.jpg 
+  image: "ZhangLab_logo.png"
+  background-color: "#FFFFFF"
 widget1:
   title: "Identifying the transcriptional regulatory sequences in genomes"
   url: '/research/#identifying-the-transcriptional-regulatory-sequences-in-genomes'

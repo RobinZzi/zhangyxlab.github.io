@@ -16,3 +16,5 @@ To add wiki pages, go to `pages/wiki/`
 ### Overall Structure
 To change the menu, go to `_data/navigation.yml`
 To add or modify static pages, go to `pages/`
+The pages are built from the backbones of layouts.
+The layouts contains components of the "includes".

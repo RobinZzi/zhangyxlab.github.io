@@ -5,9 +5,9 @@
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-url: 		'http://zhangyxlab.github.io/'
-baseurl: 	''
-urlimg: 	'http:/zhangyxlab.github.io/images/'
+url: 		'http://127.0.0.1/'
+baseurl: 	'zhangyxlab'
+urlimg: 	'http:/127.0.0.1/zhangyxlab/images'
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:
@@ -23,4 +23,4 @@ sass:
   sourcemap: true
 
 # Disable when not in production
-google_analytics_tracking_id: #UA-96143943-2
+#google_analytics_tracking_id: 
