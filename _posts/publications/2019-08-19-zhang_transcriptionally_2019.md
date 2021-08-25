@@ -6,7 +6,7 @@ categories:
     - publication
 ## publication related information
 pub:
-    authors: " Yanxiao Zhang*, Ting Li*, Sebastian Preissl*, Maria Luisa Amaral, Jonathan D. Grinstein, Elie N. Farah, Eugin Destici, Yunjiang Qiu, Rong Hu, Ah Young Lee, Sora Chee, Kaiyue Ma, Zhen Ye, Quan Zhu, Hui Huang, Rongxin Fang, Leqian Yu, Juan Carlos Izpisua Belmonte, Jun Wu, Sylvia M. Evans, Neil C. Chi<sup>#</sup>,  Bing Ren<sup>#</sup>"
+    authors: " <u>Yanxiao Zhang</u>*, Ting Li*, Sebastian Preissl*, Maria Luisa Amaral, Jonathan D. Grinstein, Elie N. Farah, Eugin Destici, Yunjiang Qiu, Rong Hu, Ah Young Lee, Sora Chee, Kaiyue Ma, Zhen Ye, Quan Zhu, Hui Huang, Rongxin Fang, Leqian Yu, Juan Carlos Izpisua Belmonte, Jun Wu, Sylvia M. Evans, Neil C. Chi<sup>#</sup>,  Bing Ren<sup>#</sup>"
     journal: " Nature Genetics"
     date: 2019-08-19
     doi:  10.1038/s41588-019-0479-7
