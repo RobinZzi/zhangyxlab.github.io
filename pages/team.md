@@ -13,12 +13,17 @@ permalink: "/team/"
 <br>
 <div class ="row">
 {% for member in site.data.labmembers %}
- <div class = "small-12 medium-6 large-3 columns">
- {% if member.image %}  <img src="{{site.urlimg}}{{member.image}}"> {% endif %}
- <p> <b>{{member.name}}</b>
+ <div class = "small-12 medium-6 large-6 columns">
+<table cellspacing="0" cellpadding="0">
+ <tr> <td>
+ <img src="{{site.urlimg}}{{member.image}}" alt="{{member.name}}" width="240" height="320"> 
+ </td> 
+<!-- </div>  <div class = "small-6 medium-3 large-3 columns"> -->
+ <td> <p> <b>{{member.name}}</b>
   <br>
  {{member.position}} <br>
   </p>
+  </td> </tr> </table>
  </div> <!-- small-12 large-4 columns -->
 {% endfor %}
 </div>
