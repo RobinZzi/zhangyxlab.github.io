@@ -13,7 +13,7 @@ permalink: "/team/"
 <br>
 <div class ="row">
 {% for member in site.data.labmembers %}
- <div class = "small-12 medium-6 large-6 columns">
+ <div class = "small-12 medium-6 large-4 columns">
 <table cellspacing="0" cellpadding="0">
  <tr> <td>
  <img src="{{site.urlimg}}{{member.image}}" alt="{{member.name}}" width="240" height="320"> 
