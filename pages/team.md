@@ -6,30 +6,28 @@ header:
   background-color: "#FFFFFF"
 
 meta_title: "Lab members"
-subheadline: # "Wufoo-powered contact forms"
-#teaser: "Get in touch with me? Use the contact form."
+subheadline: # "Awesome team"
 permalink: "/team/"
 ---
-##### Principle Investigator
-<br>
-<b> Yanxiao Zhang, PhD. </b>
-<hr>
 ##### Current members
 <br>
-<table>
+<div class ="row">
 {% for member in site.data.labmembers %}
- <tr>
- <td> <b> <a href="mailto:{{member.email}}">{{member.name}} </a>  </b>
- {% if member.url %} <a href="{{member.url}}"> &lt;website&gt;</a> {% endif %} </td>
- <td>{{member.position}} </td>
- </tr>
+ <div class = "small-12 medium-6 large-3 columns">
+ {% if member.image %}  <img src="{{site.urlimg}}{{member.image}}"> {% endif %}
+ <p> <b>{{member.name}}</b>
+  <br>
+ {{member.position}} <br>
+  </p>
+ </div> <!-- small-12 large-4 columns -->
 {% endfor %}
-</table>
-<hr>
+</div>
+
+We're actively recruiting students, postdocs and research assistants. Please contact me if you are interested in our research. 
+
+{%comment %}
 
 ##### Alumni
-
-<!-- 
 
 <table>
  <tr><th> Name </th> <th>Prev. Pos</th>><th> Year</th> <th> Curr. Pos </th> </tr>
@@ -44,6 +42,8 @@ permalink: "/team/"
 {% endfor %}
 </table>
 
---> 
+(Please contact website <a href="mailto:zhangyanxiao@westlake.edu.cn">admin</a> to correct any mistakes or missing information.)
+{% endcomment %}
 
-(Please contact website <a href="mailto:shz254@ucsd.edu">admin</a> to correct any mistakes or missing information.)
+
+
