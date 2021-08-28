@@ -9,6 +9,9 @@ meta_title: "Lab members"
 subheadline: # "Awesome team"
 permalink: "/team/"
 ---
+
+We're looking for motivated students, postdocs and research assistants to join our team. Please contact me if you are interested in our research. 
+
 ##### Current members
 <br>
 <div class ="row">
@@ -28,7 +31,6 @@ permalink: "/team/"
 {% endfor %}
 </div>
 
-We're actively recruiting students, postdocs and research assistants. Please contact me if you are interested in our research. 
 
 {%comment %}
 

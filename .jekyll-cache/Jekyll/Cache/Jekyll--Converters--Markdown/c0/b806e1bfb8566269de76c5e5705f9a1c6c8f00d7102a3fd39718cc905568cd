@@ -1,8 +1,10 @@
-I"•<h5 id="current-members">Current members</h5>
+I"¨<p>Weâ€™re looking for motivated students, postdocs and research assistants to join our team. Please contact me if you are interested in our research.</p>
+
+<h5 id="current-members">Current members</h5>
 <p><br /></p>
 <div class="row">
 
- <div class="small-12 medium-6 large-6 columns">
+ <div class="small-12 medium-6 large-4 columns">
 <table cellspacing="0" cellpadding="0">
  <tr> <td>
  <img src="http://127.0.0.1/zhangyxlab/images/YanxiaoZhang_photo.jpg" alt="Yanxiao Zhang" width="240" height="320" /> 
@@ -16,7 +18,5 @@
  </div> <!-- small-12 large-4 columns -->
 
 </div>
-
-<p>Weâ€™re actively recruiting students, postdocs and research assistants. Please contact me if you are interested in our research.</p>
 
 :ET
