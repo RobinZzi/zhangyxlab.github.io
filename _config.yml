@@ -105,7 +105,7 @@ compress_html:
 defaults:
   -
     scope:
-      path: 'pages' 				# an empty string here means all files in the project
+      path: '' 				# an empty string here means all files in the project
       type: 'pages'
     values:
       show_meta: false 	# Hide metadata for all pages
