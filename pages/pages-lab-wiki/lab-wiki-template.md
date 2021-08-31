@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Onboarding Instructions"
 subheadline: "Getting started in Zhang lab"
 teaser: "The documentation is a work in progress..."
-permalink: "/onboarding/"
+permalink: "/labwiki_template/"
 header:
 #   image: "header_roadmap_2.jpg"
    background-color: "#FFFFFF"
@@ -25,16 +25,5 @@ header:
 
 ## Getting Started   {#Getting-Started}
 Welcome to Zhang lab. 
-
-## How to become an active scholar in the community? 
-Participate in seminars, conferences is a key part of being a scientist. Below is a list of resources that may be relevant to the research in our lab: 
-
-### conferences 
- * Keystone conferences
- * Cold Spring Harbor Seminar Series 
- * <a href="https://generegulation.org/conferences-2021/">List of Gene Regulation conferences </a>
-
-### virtual resources
-<a href="https://space.bilibili.com/1461466443?spm_id_from=333.788.b_765f7570696e666f.2"> China Epi Webinar </a>
 
 </div>
