@@ -26,6 +26,17 @@ header:
 ## Getting Started   {#Getting-Started}
 Welcome to Zhang lab. 
 
+## Meetings
+### Lab Meetings
+Lab meeting presentation is a good opportunity to 
+ * discuss research progress
+ * discuss problems you encounter (to get the crowd wisdom to help you troubleshoot)
+ * to practice presentation skills
+
+## A good research practice. 
+ * Focus on the most important direction, and try not to be distracted by too much details.
+ * Keep record of even very small but interesting findings, they could turn out to be something huge. 
+
 ## How to become an active scholar in the community? 
 Participate in seminars, conferences is a key part of being a scientist. Below is a list of resources that may be relevant to the research in our lab: 
 

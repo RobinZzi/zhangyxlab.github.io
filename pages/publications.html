@@ -22,6 +22,19 @@ permalink: "/publication/"
 {% endcomment %}
 
 Below is a list of representative peer-reviewed publications. (*equal contribution. <sup>#</sup>co-correspondence.)
+<ul> 
+{% for post in site.categories.publication %}
+  <li>
+   <i><b>{{ post.title }} </b> </i>
+      <br> {{post.pub.authors}} <br>
+      <b> {{post.pub.journal}}</b>, {{post.date|date: '%Y'}};doi:<a href="https://doi.org/{{post.pub.doi}}">{{post.pub.doi}}</a>
+ </li>
+      <br>
+ {% endfor %}
+</ul>
+
+{% comment %}
+## This will list the publications by year. 
 
 {% capture lyear %} {{site.categories.publication.first.date |date: '%Y' }} {% endcapture %}
 <ul>
@@ -43,3 +56,4 @@ Below is a list of representative peer-reviewed publications. (*equal contributi
   {% endfor %}
 </ul>
 
+{% endcomment %}
