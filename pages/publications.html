@@ -24,12 +24,11 @@ permalink: "/publication/"
 Below is a list of representative peer-reviewed publications. (*equal contribution. <sup>#</sup>co-correspondence.)
 <ul> 
 {% for post in site.categories.publication %}
-  <li>
+  <li style="margin-bottom:20px" >
    <i><b>{{ post.title }} </b> </i>
       <br> {{post.pub.authors}} <br>
       <b> {{post.pub.journal}}</b>, {{post.date|date: '%Y'}};doi:<a href="https://doi.org/{{post.pub.doi}}">{{post.pub.doi}}</a>
  </li>
-      <br>
  {% endfor %}
 </ul>
 
