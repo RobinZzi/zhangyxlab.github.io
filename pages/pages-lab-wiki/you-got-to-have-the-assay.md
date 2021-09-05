@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Onboarding Instructions"
 subheadline: "Getting started in Zhang lab"
 teaser: "The documentation is a work in progress..."
-permalink: "/labwiki_template/"
+permalink: "/you-got-to-have-the-assay/"
 header:
 #   image: "header_roadmap_2.jpg"
    background-color: "#FFFFFF"
