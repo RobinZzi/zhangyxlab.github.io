@@ -17,14 +17,14 @@
   url: "/team/"
   side: left 
 
+
 - title: "Publication"
   url: "/publication/"
   side: left
-#  dropdown:
-#  - title: "Preprint"
-#    url: "/publication/preprint/"
-#  - title: "Peer Reviewed"
-#    url: "/publications/peer-reviewed/"
+
+- title: "Positions"
+  url: "/positions/"
+  side: left
 
 #- title: "Download"
 #  url: "/download/"

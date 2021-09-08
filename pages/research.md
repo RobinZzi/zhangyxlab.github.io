@@ -6,7 +6,7 @@ header:
   background-color: "#FFFFFF"
 permalink: "/research/"
 breadcrumb: false 
-teaser: Our lab has been focused on using Bioinformatics and Genomics tools to study cancer and aging.  
+teaser: Our lab will be focused on using Bioinformatics and Genomics tools to study cancer and aging.  
 ---
 {% comment %}
 <div class="panel radius" markdown="1">

@@ -10,7 +10,7 @@ subheadline: # "Awesome team"
 permalink: "/team/"
 ---
 
-We're looking for motivated students, postdocs and research assistants to join our team. Please contact me if you are interested in our research. 
+We're looking for motivated students, postdocs and research assistants to join our team. Please contact me if you are interested in our research. Click [here]({{site.url}}/{{site.baseurl}}/positions/) for more details.
 
 ##### Current members
 <br>
