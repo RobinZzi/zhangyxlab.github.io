@@ -16,15 +16,16 @@ We're looking for motivated students, postdocs and research assistants to join o
 <br>
 <div class ="row">
 {% for member in site.data.labmembers %}
- <div class = "small-12 medium-6 large-4 columns">
+ <div class = "small-12 medium-12 large-8 columns">
 <table cellspacing="0" cellpadding="0">
  <tr> <td>
- <img src="{{site.urlimg}}{{member.image}}" alt="{{member.name}}" width="240" height="320"> 
+ <img src="{{site.urlimg}}{{member.image}}" alt="{{member.name}}" width="120" height="160"> 
  </td> 
 <!-- </div>  <div class = "small-6 medium-3 large-3 columns"> -->
- <td> <p> <b>{{member.name}}</b>
+ <td> <p> <b>{{member.name}}</b> 
   <br>
  {{member.position}} <br>
+ {{member.description}} 
   </p>
   </td> </tr> </table>
  </div> <!-- small-12 large-4 columns -->

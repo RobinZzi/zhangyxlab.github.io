@@ -25,6 +25,6 @@ We're actively recruiting graduate students, especially for projects related to 
 We're recruiting 2-3 research assistants to help build a brand-new lab and help generate or analyze exciting single-cell datasets. Please see [Job Ad|研究助理招聘]({{site.url}}/{{site.baseurl}}/assets/files/research_assistant_ad.pdf) for more details. 
 
 
-### Research intern opportunities
-Our lab is open to motivated undergraduate students who would like to do a summer/winter internship or work on undergraduate thesis projects. If you're interested please contact me at zhangyanxiao@westlake.edu.cn.  
+### Visiting students 
+Our lab is open to motivated undergraduate students who would like to do summer/winter internship or work on undergraduate thesis projects. If you're interested please contact me at zhangyanxiao@westlake.edu.cn.  
 
