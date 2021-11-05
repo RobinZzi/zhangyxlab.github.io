@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Onboarding Instructions"
+sidebar: left
 subheadline: "Getting started in Zhang lab"
 teaser: "The documentation is a work in progress..."
 permalink: "/onboarding/"
@@ -25,6 +26,8 @@ header:
 
 ## Getting Started   {#Getting-Started}
 Welcome to Zhang lab. 
+### Getting started (Dry) {#Getting-Started-Dry}
+### Getting started (Wet) {#Getting-Started-Wet}
 
 ## Meetings
 ### Lab Meetings
@@ -47,5 +50,9 @@ Participate in seminars, conferences is a key part of being a scientist. Below i
 
 ### virtual resources
 <a href="https://space.bilibili.com/1461466443?spm_id_from=333.788.b_765f7570696e666f.2"> China Epi Webinar </a>
+
+### Other resources
+[Career Outlook](/{{site.baseurl}}/career_outlook)
+
 
 </div>
