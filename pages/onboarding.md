@@ -1,58 +1,42 @@
 ---
 layout: page-fullwidth
+skip_boilerplate: True
 title: "Onboarding Instructions"
-sidebar: left
 subheadline: "Getting started in Zhang lab"
-teaser: "The documentation is a work in progress..."
+#teaser: "The documentation is a work in progress..."
 permalink: "/onboarding/"
 header:
 #   image: "header_roadmap_2.jpg"
    background-color: "#FFFFFF"
 ---
 <div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
-<div class="panel radius" markdown="1">
-**Table of Contents**
-{: #toc }
-*  TOC
-{:toc}
-</div>
+<div class="medium-4 columns" markdown="1">
+{% include _onboarding_sidebar.html %} 
 </div><!-- /.medium-4.columns -->
 
 
 
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include _improve_content.html %}
+<div class="medium-8 columns" markdown="1">
+## Getting Started (Everyone)   {#Getting-Started-Everyone}
+ * [Getting Started](getting_started_everyone) 
+    *  [Labmeeting](getting_started_everyone#Labmeeting)
 
-## Getting Started   {#Getting-Started}
-Welcome to Zhang lab. 
-### Getting started (Dry) {#Getting-Started-Dry}
-### Getting started (Wet) {#Getting-Started-Wet}
+## Getting started (Drylab) {#Getting-Started-Dry}
+ *  [Getting Started (Drylab)](getting_started_drylab)
+    * [Computing Servers](getting_started_drylab#Servers)
 
-## Meetings
-### Lab Meetings
-Lab meeting presentation is a good opportunity to 
- * discuss research progress
- * discuss problems you encounter (to get the crowd wisdom to help you troubleshoot)
- * to practice presentation skills
+## Getting started (Wetlab) {#Getting-Started-Wet}
+ * [Getting Started (Wetlab)](getting_started_wetlab)
 
-## A good research practice. 
- * Focus on the most important direction, and try not to be distracted by too much details.
- * Keep record of even very small but interesting findings, they could turn out to be something huge. 
+## Learning Bioinformatics {#Learning-Bioinformatics}
+ * [Learning Bioinformatics](learning_bioinformatics)
 
-## How to become an active scholar in the community? 
-Participate in seminars, conferences is a key part of being a scientist. Below is a list of resources that may be relevant to the research in our lab: 
+## Tips for research and scholarship {#Research-and-Scholarship}
+ This [page](research_scholarship) provides some helpful tips for how you perform research and become a scholar. 
 
-### conferences 
- * Keystone conferences
- * Cold Spring Harbor Seminar Series 
- * <a href="https://generegulation.org/conferences-2021/">List of Gene Regulation conferences </a>
 
-### virtual resources
-<a href="https://space.bilibili.com/1461466443?spm_id_from=333.788.b_765f7570696e666f.2"> China Epi Webinar </a>
-
-### Other resources
-[Career Outlook](/{{site.baseurl}}/career_outlook)
+## What's next? 
+Looking for a postdoc/faculty position or industry? Check this out: [Career Outlook](career_outlook)
 
 
 </div>

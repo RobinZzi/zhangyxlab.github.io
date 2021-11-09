@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+skip_boilerplate: True
 title: "Onboarding Instructions"
 subheadline: "Getting started in Zhang lab"
 teaser: "The documentation is a work in progress..."

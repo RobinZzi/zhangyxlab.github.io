@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+skip_boilerplate: True
 title: "Onboarding Instructions"
 subheadline: "Getting started in Zhang lab"
 teaser: "The documentation is a work in progress..."
@@ -9,21 +10,22 @@ header:
    background-color: "#FFFFFF"
 ---
 <div class="row">
-<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="medium-3 columns" markdown="1">
 <div class="panel radius" markdown="1">
 **Table of Contents**
 {: #toc }
 *  TOC
 {:toc}
 </div>
+{% include _onboarding_sidebar %}
 </div><!-- /.medium-4.columns -->
 
 
 
-<div class="medium-8 medium-pull-4 columns" markdown="1">
-{% include _improve_content.html %}
+<div class="medium-9 columns" markdown="1">
 
 ## Getting Started   {#Getting-Started}
 Welcome to Zhang lab. 
 
+{% include _improve_content.html %}
 </div>
