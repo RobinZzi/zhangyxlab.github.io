@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 skip_boilerplate: True
-title: "Getting Started (Drylab)"
+title: "Getting Started (Wetlab)"
 permalink: "/onboarding/getting_started_wetlab/"
 header:
 #   image: "header_roadmap_2.jpg"
