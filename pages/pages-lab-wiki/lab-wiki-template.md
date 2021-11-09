@@ -17,7 +17,7 @@ header:
 *  TOC
 {:toc}
 </div>
-{% include _onboarding_sidebar %}
+{% include _onboarding_sidebar.html %}
 </div><!-- /.medium-4.columns -->
 
 
