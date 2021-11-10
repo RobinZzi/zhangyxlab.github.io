@@ -9,10 +9,16 @@ header:
 #   image: "header_roadmap_2.jpg"
    background-color: "#FFFFFF"
 ---
-<div class="row">
+<div class="row" markdown="1">
+Welcome to Zhang lab! We are a group of scientists who are excited about epigenetics research on aging and cancer. And we use a combination of computational and functional genomics tools to study these problems. Topics that we're interested in (but not limited to): 
+ 1. Epigenetic and transcriptional change that drive the aging process at single-cell resolution. 
+ 2. How dysfunction in epigenetic states contribute to cancer, and especially the role of retroviral elements such as endogeneous retrovirus. 
+ 3. How mutations in the noncoding elements in the genome contribute to diseases.
+
+Here is a collection of resources that can help you get started in the lab. Feel free to ask anyone in the lab when you have any questions. And we invite you to help improve this document to help new members who join the lab. 
 <div class="medium-4 columns" markdown="1">
 {% include _onboarding_sidebar.html %} 
-</div><!-- /.medium-4.columns -->
+</div><!-- /.medium-4.columns __ -->
 
 
 
