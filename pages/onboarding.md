@@ -25,8 +25,10 @@ Here is a collection of resources that can help you get started in the lab. Feel
 <div class="medium-8 columns" markdown="1">
 ## Getting Started (Everyone)   {#Getting-Started-Everyone}
  * [Getting Started](getting_started_everyone) 
-    *  [Labmeeting](getting_started_everyone#Labmeeting)
-
+    * [Ordering](getting_started_everyone#Ordering)
+    * [Internal Resources](getting_started_everyone#Internal-Resources)
+    * [Labmeeting](getting_started_everyone#Labmeeting)
+    * [Journal Club](getting_started_everyone#Journal-Club)
 ## Getting started (Drylab) {#Getting-Started-Dry}
  *  [Getting Started (Drylab)](getting_started_drylab)
     * [Computing Servers](getting_started_drylab#Servers)
