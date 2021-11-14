@@ -25,12 +25,13 @@ header:
 ## Servers 
 We have two servers that you can use for data analysis and software development. 1. [High Performance Computing Cluster](#HPC) and 2. [Lab server](#Lab-Server). You'll need to log in VPN if you plan to access these servers off-campus. 
 ### 1. High Performance Computing cluster (HPC) {#HPC}
- * Link to Westake HPC: <https://hpc.westlake.edu.cn/>
  * IP address to HPC: 172.16.75.132 (port 22 or 10002) 
-
+ * Link to Westake HPC: <https://hpc.westlake.edu.cn/>
+ * Help document: <https://hpc.westlake.edu.cn:8080/index.html>
 #### Setting up an account on the HPC. 
 
-#### Submitting Jobs on HPC. 
+#### Running jobs on HPC. 
+[This page](/{{site.baseurl}}/onboarding/using_hpc) provides detailed instructions on how to run jobs on HPC. 
 
 #### Help information 
  * Please ask the admin to be added to the Wechat group. 
