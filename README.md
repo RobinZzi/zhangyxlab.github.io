@@ -10,8 +10,8 @@ To add or change current and past lab members, go to `_data/labmembers.md` or  `
 ### Publication/News page
 To add or change publication/news go to `_posts/publication` or `_posts/news`
 
-## Wiki 
-To add wiki pages, go to `pages/wiki/`
+## Onboarding Instructions
+To change onboarding instructions, go to `pages/onboarding.md` or `pages/pages-lab-wiki/*.md`.
 
 ### Overall Structure
 To change the menu, go to `_data/navigation.yml`

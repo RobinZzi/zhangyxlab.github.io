@@ -22,13 +22,12 @@ header:
 
 
 
-<div class="medium-9 columns" markdown="0">
+<div class="medium-9 columns" markdown="1">
 ### Login information: 
 Login node: 172.16.75.132
 
 
 ### Example script 
-
 <pre>
 #!/bin/bash
 #SBATCH -o job.%j.out
@@ -44,6 +43,9 @@ $command
 </pre>
 
 Save this script as `test.pbs` and run `sbatch test.pbs`. 
+### Useful links
+* <https://slurm.schedmd.com/documentation.html> 
+* <https://help.rc.ufl.edu/doc/Sample_SLURM_Scripts>
 
 ### Other information 
 

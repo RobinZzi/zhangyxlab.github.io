@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 skip_boilerplate: True
-title: "Onboarding Instructions"
-subheadline: "Getting started in Zhang lab"
+title: "Research and scholarship"
+#subheadline: "Getting started in Zhang lab"
 teaser: "The documentation is a work in progress..."
 permalink: "/onboarding/research_scholarship/"
 header:
@@ -19,13 +19,24 @@ header:
 
 </div>
 {% include _onboarding_sidebar.html %} 
-</div><!-- /.medium-4.columns -->
+</div><!-- /.medium-4.columns __ -->
 
 <div class="medium-8 columns" markdown="1">
 
 ## A good research practice. 
  * Focus on the most important direction, and try not to be distracted by too much details.
  * Keep record of even very small but interesting findings, they could turn out to be something huge.
+
+## Following Literature
+### Journal website
+* Subscribe to journals using RSS and read them daily or weekly. The following journals are recommended: 
+   * High-profile journals: Nature, Science, Cell, Nature Genetics, Nature Biotechnology, Nature Methods, Cell Stem cells. 
+   * General audience journals: Nature Communications, PNAS, Science Advances, Elife. 
+   * Preprint: BioRxiv
+ * For some of papers without subscription, you can try obtaining them using [SCI-HUB](https://sci-hub.se)
+
+### Twitter
+You can follow scientists and/or journals on Twitter. They will advertise/retweet/discuss some very interesting papers. 
 
 ## How to become an active scholar in the community? 
 Participate in seminars, conferences is a key part of being a scientist. Below is a list of resources that may be relevant to the research in our lab:
