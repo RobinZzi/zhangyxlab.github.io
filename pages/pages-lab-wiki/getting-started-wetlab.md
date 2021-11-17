@@ -28,7 +28,7 @@ Please ask the lab manager for general instructions to start doing bench work. Y
 
 You should complete all **Safty Training** and know all of the safty rules before you get your hands wet. This is super important. 
 
-### Instruments Reservation
+### Instrument Reservation {#Instrument-Reservation}
  * Q-PCR machine: 
  * Tapestation: 
 

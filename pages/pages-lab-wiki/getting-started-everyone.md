@@ -24,6 +24,12 @@ header:
 
 <div class="medium-8 columns" markdown="1">
 
+## Lab Notebook {#Lab-Notebook}
+Everyone should keep a good lab notebook. 
+* For wetlab research, you can either use a hard copy of notebook, or save an electronic notebook (with a timestamp functionality). 
+* For drylab research, you should always save your scripts, and document them well with comments so you can understand them when you revisit. Use Git/Github to version control or timestamp your scripts. 
+
+
 ## Ordering {#Ordering}
 Ordering reagents or office supplies are through our online ordering system. For purchases of items over 5,000 CNY (subject to change), please get a prior approval from PI.
 

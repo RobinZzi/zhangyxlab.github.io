@@ -44,12 +44,12 @@ We have two servers that you can use for data analysis and software development.
  * IP address: x.x.x.x
 
 
-## Shared directory on the server. 
+## Shared directory on the server. {#Shared-Directory}
 We have a shared directory on the server, which contains resources that can be used by all lab members. The location of the shared directory is `/storage/zhangyanxiaoLab/share/`. They include:
  * Genome files in fasta format. 
  * Genome index for aligners such as BWA, bowtie2, rnaSTAR, etc. 
 
-### Analysis Pipelines
+### Analysis Pipelines {#Pipelines}
 We have built basic analysis pipelines with [snakemake](). They are easy to run and can produce very standard output for sequencing datasets. The location of the pipeline is currently in `/storage/zhangyanxiaoLab/share/Pipelines`. Currently we suppport analysis of: 
  * RNA-seq (paired-end or single-end)
  * ChIP-seq (single-end)

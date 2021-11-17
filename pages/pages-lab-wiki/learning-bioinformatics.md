@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
 skip_boilerplate: True
-title: "Onboarding Instructions"
-subheadline: "Getting started in Zhang lab"
-teaser: "The documentation is a work in progress..."
+title: "Learning Bioinformatics"
+#subheadline: "Getting started in Zhang lab"
+#teaser: "The documentation is a work in progress..."
 permalink: "/onboarding/learning_bioinformatics/"
 header:
 #   image: "header_roadmap_2.jpg"
@@ -31,26 +31,26 @@ Welcome to the world of _struggle_, sorry, Bioinformatics. Below we outlined sou
   * 3 most important commands grep, awk, sed - <http://blog.cee.moe/a-brief-introduction-to-grep-awk-and-sed.html>
   * [Understanding Load Averages](http://blog.scoutapp.com/articles/2009/07/31/understanding-load-averages)
 
-### Git and Github  {#Git-Version-Control}
+### Git and Github  {#Git}
  * Git is great for version control. [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
  * Get a Github account and join our group Github team(<https://github.com/zhangyxlab>)
 
-### Programing languages {#Programming-Language}
+### Programing languages {#Programming-Languages}
 
 1. **Python** (_highly recommended for machine learning and basic data processing_)
 2. **R** (_great for statistics and matrix processing_)
-  + Basics of vectors, dataframes, functions, loops - https://uoftcoders.github.io/rcourse/lec02-basic-r.html
-  + Plotting 
-    * ggplot2 (aka greatest plotting function) - http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html
-    * Combining multiple plots - https://cran.r-project.org/web/packages/gridExtra/vignettes/arrangeGrob.html
-    * Complex heatmap - https://jokergoo.github.io/ComplexHeatmap-reference/book/
-    * Color options in R 
-      * http://colorbrewer2.org
-      * https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf
-      * http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
-      * Wes Anderson fans - https://github.com/karthik/wesanderson
-  + Linear Regression - https://www.andrew.cmu.edu/user/achoulde/94842/lectures/lecture09/lecture09-94842.html
-  + Apply functions (faster and cleaner alternative to for loops) - https://www.datacamp.com/community/tutorials/r-tutorial-apply-family
+   * Basics of vectors, dataframes, functions, loops - https://uoftcoders.github.io/rcourse/lec02-basic-r.html
+   * Plotting 
+     * ggplot2 (aka greatest plotting function) - http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html
+       * Combining multiple plots - https://cran.r-project.org/web/packages/gridExtra/vignettes/arrangeGrob.html
+     * Complex heatmap - https://jokergoo.github.io/ComplexHeatmap-reference/book/
+     * Color options in R 
+       * http://colorbrewer2.org
+       * https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf
+       * http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
+       * Wes Anderson fans - https://github.com/karthik/wesanderson
+   * Linear Regression - https://www.andrew.cmu.edu/user/achoulde/94842/lectures/lecture09/lecture09-94842.html
+   * Apply functions (faster and cleaner alternative to for loops) - https://www.datacamp.com/community/tutorials/r-tutorial-apply-family
 3. **Perl** (_not as popular as Python but still useful_)
 
 ### Coding environments {#Coding-Environments}
@@ -69,7 +69,7 @@ For a more complete list of software and databases, please visit [Awesome Genomi
 * Books 
   * Bioinformatics Data Skills. 
 
-## Computing Best practices 
+## Computing Best practices {#Computing-Best-Practices}
 
 This section is intended to offer everyone suggestions/ways to look for resources and keep a good working habit.
 ### Running jobs on server

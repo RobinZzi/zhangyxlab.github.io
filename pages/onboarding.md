@@ -25,19 +25,31 @@ Here is a collection of resources that can help you get started in the lab. Feel
 <div class="medium-8 columns" markdown="1">
 ## Getting Started (Everyone)   {#Getting-Started-Everyone}
  * [Getting Started](getting_started_everyone) 
-    * [Ordering](getting_started_everyone#Ordering)
-    * [Internal Resources](getting_started_everyone#Internal-Resources)
-    * [Labmeeting](getting_started_everyone#Labmeeting)
-    * [Journal Club](getting_started_everyone#Journal-Club)
+ * [Ordering](getting_started_everyone#Ordering)
+ * [Internal Resources](getting_started_everyone#Internal-Resources)
+ * [Labmeeting](getting_started_everyone#Labmeeting)
+ * [Journal Club](getting_started_everyone#Journal-Club)
+
 ## Getting started (Drylab) {#Getting-Started-Dry}
  *  [Getting Started (Drylab)](getting_started_drylab)
-    * [Computing Servers](getting_started_drylab#Servers)
+ * [Computing Servers](getting_started_drylab#Servers)
+   * [HPC](using_hpc)
+   * [Lab Server](getting_started_drylab#Lab-Server) 
+ * [Shared Directory](getting_started_drylab#Shared-Directory)
+   * [Analysis Pipelines](getting_started_drylab#Pipelines)
 
 ## Getting started (Wetlab) {#Getting-Started-Wet}
  * [Getting Started (Wetlab)](getting_started_wetlab)
+ * [Instrument Reservation](getting_started_wetlab#Instrument-Reservation)
 
 ## Learning Bioinformatics {#Learning-Bioinformatics}
  * [Learning Bioinformatics](learning_bioinformatics)
+   * [Linux Shell](learning_bioinformatics#Linux-Shell)
+   * [Git](learning_bioinformatics#Git)
+   * [Programming Languages](learning_bioinformatics#Programming-Languages)
+   * [Bioinformatics Software](learning_bioinformatics#Bioinformatics-Software)
+ * [Learning Resources](learning_bioinformatics#Resources)
+ * [Computing Best practice](learning_bioinformatics#Computing-Best-Practices)
 
 ## Tips for research and scholarship {#Research-and-Scholarship}
  This [page](research_scholarship) provides some helpful tips for how you perform research and become a scholar. 
