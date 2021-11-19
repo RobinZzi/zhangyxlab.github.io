@@ -51,6 +51,7 @@ You'll have to make accounts on these websites:
  * [Asana]() or [Trello]()
 
 ### Calendar 
+Please go to <a href="https://outlook.office365.com/owa/calendar/42269faf0d064e83b1ecf8eb336255c0@westlake.edu.cn/d8b629fb4c404d248cf668be3b953f0011674006155324287211/calendar.html">Link</a> To view this Calendar.
 
 ### Mailing List
 
@@ -62,6 +63,8 @@ Lab meeting presentation is a good opportunity to
  * discuss research progress
  * discuss problems you encounter (to get the crowd wisdom to help you troubleshoot)
  * to practice presentation skills
+
+<iframe width="560" height="400" frameborder="0" scrolling="no" src="https://westlakeu-my.sharepoint.com/:x:/g/personal/zhangyanxiao_westlake_edu_cn/EQjC7mjqVI9IhhnB4ITpDwQBliv0IHW7FVVE8uVkItuNVw?e=ru5MDy&action=embedview&wdbipreview=true"> </iframe>
 
 ## Journal club {#Journal-Club}
 In journal club we will discuss recent papers from the relevant field.  

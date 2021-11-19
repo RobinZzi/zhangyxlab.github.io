@@ -11,7 +11,7 @@ permalink: "/positions/"
 ---
 
 Our lab will be openning Januanry/Februrary 2022. Stay tuned!<br> 
-We're looking for young talents at all levels to join our team. If you are excited about making discoveries about cancer and aging, or invotating genomics/bioinformatics tools, please don't hesitate to contact me. Below is a list of positions and applicaiton procedure. 
+We're looking for young talents at all levels to join our team. If you are excited about making discoveries about cancer and aging, or innovating genomics/bioinformatics tools, please don't hesitate to contact me. Below is a list of positions and applicaiton procedure. 
 
 ### Post-doctoral positions
 We're recuiting both experimental and computational postdoctoral fellows. Outstanding candidate will also be considered for a research assistant professor position. Please refer to this [Job Ad|博士后招聘]({{ site.url}}/{{site.baseurl}}/assets/files/postdoc_ad.pdf) for more details.  
