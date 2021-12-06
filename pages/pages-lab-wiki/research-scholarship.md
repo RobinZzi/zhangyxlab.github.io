@@ -23,7 +23,14 @@ header:
 
 <div class="medium-8 columns" markdown="1">
 
-## A good research practice. 
+## Integraty.
+ Research ethics is very important. Always report what you see. One should never manipulate data/results under any circumstances. 
+
+## Note-keeping.
+ Be a good note keeper. It will help you in the long run. Notes will help you organize your thoughts. Notes help you remember what you did months ago. 
+
+
+## Reserach directions. 
  * Focus on the most important direction, and try not to be distracted by too much details.
  * Keep record of even very small but interesting findings, they could turn out to be something huge.
 
@@ -45,7 +52,7 @@ Participate in seminars, conferences is a key part of being a scientist. Below i
  * Keystone conferences
  * Cold Spring Harbor Seminar Series
  * <a href="https://generegulation.org/conferences-2021/">List of Gene Regulation conferences </a>
- * <a href="https://space.bilibili.com/1461466443?spm_id_from=333.788.b_765f7570696e666f.2"> China Epi Webinar (virtual) </a>
+ * <a href="https://www.cscb.org.cn/ce/"> Chinese Society for Cell Biology|Chromatin and Epigenetics virtual Seminar <a href="https://space.bilibili.com/1461466443?spm_id_from=333.788.b_765f7570696e666f.2"> BiliBili Link </a>
 
 
 {% include _improve_content.html %}

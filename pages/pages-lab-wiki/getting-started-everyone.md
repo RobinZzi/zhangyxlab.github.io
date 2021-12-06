@@ -1,8 +1,7 @@
 ---
 layout: page-fullwidth
 skip_boilerplate: True
-title: "Onboarding Instructions"
-subheadline: "Getting started in Zhang lab"
+title: "Onboarding Instructions for everyone "
 teaser: "The documentation is a work in progress..."
 permalink: "/onboarding/getting_started_everyone/"
 header:
@@ -23,6 +22,12 @@ header:
 
 
 <div class="medium-8 columns" markdown="1">
+
+## Lab Safety {#Lab-Safety}
+Lab safety is the first and foremost thing to keep in mind when you get into lab. Even if you only do dry lab, you should learn all the safety rules in lab. Here is the link to our lab safety training. 
+ * Hazards
+ * Personal Protective Equipments
+ * How to safely operate equipments such as centrifuges. 
 
 ## Lab Notebook {#Lab-Notebook}
 Everyone should keep a good lab notebook. 
@@ -46,9 +51,9 @@ There are a few internal reousrces utilized by the lab.
 ### Lab accounts
 You'll have to make accounts on these websites:
  * [Github](https://github.com/zhangyxlab) -- Code Repositry, for sharing code within/outside lab.
- * [Slack](https://slack.com/) -- For lab communication. 
+ * [Slack](https://zhangyanxiao-lab.slack.com) -- For lab communication. 
  * [Onedrive]() -- for sharing documents
- * [Asana]() or [Trello]()
+ * [Trello]() -- for managing your research projects.
 
 ### Calendar 
 Please go to <a href="https://outlook.office365.com/owa/calendar/42269faf0d064e83b1ecf8eb336255c0@westlake.edu.cn/d8b629fb4c404d248cf668be3b953f0011674006155324287211/calendar.html">Link</a> To view this Calendar.
