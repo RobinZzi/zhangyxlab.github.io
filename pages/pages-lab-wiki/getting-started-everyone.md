@@ -50,17 +50,17 @@ There are a few internal reousrces utilized by the lab.
 
 ### Lab accounts
 You'll have to make accounts on these websites:
+ * Microsoft Teams -- for lab communication. Ask to be added.
+ * Wechat Group -- for lab communication.
+ * Mail List (ZhangYanxiao_work@westlake.edu.cn) -- for lab e-mail communication. 
  * [Github](https://github.com/zhangyxlab) -- Code Repositry, for sharing code within/outside lab.
  * [Slack](https://zhangyanxiao-lab.slack.com) -- For lab communication. 
  * [Onedrive]() -- for sharing documents
  * [Trello]() -- for managing your research projects.
-
+ * 
 ### Calendar 
 Please go to <a href="https://outlook.office365.com/owa/calendar/42269faf0d064e83b1ecf8eb336255c0@westlake.edu.cn/d8b629fb4c404d248cf668be3b953f0011674006155324287211/calendar.html">Link</a> To view this Calendar.
 
-### Mailing List
-
-### Wechat Group 
 
 
 ## Lab Meeting {#Labmeeting}
